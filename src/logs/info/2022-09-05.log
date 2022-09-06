@@ -1,0 +1,72 @@
+2022-09-05 16:17:28 info: 🚀 App listening on the port 3000
+2022-09-05 16:17:29 error: 🔴 Unable to connect to the database: DriverPackageNotInstalledError: MongoDB package has not been found installed. Try to install it: npm install mongodb --save.
+2022-09-05 16:28:50 info: 🚀 App listening on the port 3000
+2022-09-05 16:29:14 info: 🚀 App listening on the port 3000
+2022-09-05 16:29:43 info: 🚀 App listening on the port 3000
+2022-09-05 16:30:13 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.51.54.145:27017 closed.
+2022-09-05 16:30:54 info: 🚀 App listening on the port 3000
+2022-09-05 16:31:11 info: 🚀 App listening on the port 3000
+2022-09-05 16:31:41 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.51.54.145:27017 closed.
+2022-09-05 16:46:44 info: [0mGET /getDefaultData [32m201[0m 12.780 ms - 34[0m
+2022-09-05 16:48:55 info: 🚀 App listening on the port 3000
+2022-09-05 16:49:10 info: [0mGET /getDefaultData [32m201[0m 8.578 ms - 789[0m
+2022-09-05 16:49:25 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.51.54.145:27017 closed.
+2022-09-05 16:50:39 info: [0mGET /getDefaultData [32m201[0m 2.604 ms - 789[0m
+2022-09-05 16:52:14 info: [0mGET /getDefaultData [32m201[0m 1.341 ms - 789[0m
+2022-09-05 16:54:10 info: 🚀 App listening on the port 3000
+2022-09-05 16:54:24 info: 🚀 App listening on the port 3000
+2022-09-05 16:54:54 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.51.54.145:27017 closed.
+2022-09-05 16:56:01 info: [0mGET /getDefaultData [32m201[0m 11.404 ms - 899[0m
+2022-09-05 16:57:03 info: [0mGET /getDefaultData [32m201[0m 4.746 ms - 899[0m
+2022-09-05 16:57:45 info: [0mGET /getDefaultData [32m201[0m 2.533 ms - 899[0m
+2022-09-05 16:58:39 info: [0mGET /getDefaultData [32m201[0m 2.797 ms - 899[0m
+2022-09-05 16:59:33 info: [0mGET /getDefaultData [32m201[0m 5.602 ms - 899[0m
+2022-09-05 17:00:19 info: [0mGET /getDefaultData [32m201[0m 2.622 ms - 899[0m
+2022-09-05 17:01:06 info: [0mGET /getDefaultData [32m201[0m 2.766 ms - 899[0m
+2022-09-05 17:02:15 info: [0mGET /getDefaultData [32m201[0m 2.647 ms - 899[0m
+2022-09-05 17:04:17 info: [0mGET /getDefaultData [32m201[0m 3.713 ms - 899[0m
+2022-09-05 17:04:47 info: [0mGET /getDefaultData [32m201[0m 2.243 ms - 899[0m
+2022-09-05 17:05:44 info: [0mGET /getDefaultData [32m201[0m 2.660 ms - 899[0m
+2022-09-05 17:06:45 info: [0mGET /getDefaultData [32m201[0m 4.637 ms - 899[0m
+2022-09-05 17:16:06 info: 🚀 App listening on the port 3000
+2022-09-05 17:16:36 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 16.170.149.154:27017 closed.
+2022-09-05 17:44:26 info: 🚀 App listening on the port 3000
+2022-09-05 17:44:56 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.49.37.16:27017 closed.
+2022-09-05 17:45:58 info: 🚀 App listening on the port 3000
+2022-09-05 17:46:28 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.49.37.16:27017 closed.
+2022-09-05 17:55:39 info: 🚀 App listening on the port 3000
+2022-09-05 17:55:40 info: 🟢 The database is connected.
+2022-09-05 18:15:48 info: 🚀 App listening on the port 3000
+2022-09-05 18:15:49 info: 🟢 The database is connected.
+2022-09-05 20:51:29 info: [0mGET /getDefaultData [32m201[0m 11.035 ms - 899[0m
+2022-09-05 20:52:55 info: [0mGET /getDefaultData [32m201[0m 1.491 ms - 899[0m
+2022-09-05 20:53:09 info: [0mGET /getDefaultData [32m201[0m 0.910 ms - 899[0m
+2022-09-05 20:53:30 info: [0mGET /getDefaultData [32m201[0m 1.495 ms - 899[0m
+2022-09-05 20:54:36 info: [0mGET /getDefaultData [32m201[0m 1.627 ms - 899[0m
+2022-09-05 21:31:10 info: [0mGET /getDefaultData [32m201[0m 1.452 ms - 899[0m
+2022-09-05 21:32:25 info: [0mGET /getDefaultData [32m201[0m 1.640 ms - 899[0m
+2022-09-05 21:32:40 info: [0mGET /getDefaultData [32m201[0m 1.234 ms - 899[0m
+2022-09-05 21:32:57 info: [0mGET /getDefaultData [32m201[0m 2.017 ms - 899[0m
+2022-09-05 21:33:21 info: [0mGET /getDefaultData [32m201[0m 0.888 ms - 899[0m
+2022-09-05 21:33:36 info: [0mGET /getDefaultData [32m201[0m 1.388 ms - 899[0m
+2022-09-05 21:33:46 info: [0mGET /getDefaultData [32m201[0m 1.348 ms - 899[0m
+2022-09-05 21:34:26 info: [0mGET /getDefaultData [32m201[0m 2.007 ms - 899[0m
+2022-09-05 21:34:40 info: [0mGET /getDefaultData [32m201[0m 1.010 ms - 899[0m
+2022-09-05 21:35:06 info: [0mGET /getDefaultData [32m201[0m 1.130 ms - 899[0m
+2022-09-05 21:35:31 info: [0mGET /getDefaultData [32m201[0m 1.331 ms - 899[0m
+2022-09-05 21:35:48 info: [0mGET /getDefaultData [32m201[0m 0.925 ms - 899[0m
+2022-09-05 21:36:27 info: [0mGET /getDefaultData [32m201[0m 0.976 ms - 899[0m
+2022-09-05 21:36:45 info: [0mGET /getDefaultData [32m201[0m 1.002 ms - 899[0m
+2022-09-05 21:37:27 info: [0mGET /getDefaultData [32m201[0m 3.009 ms - 899[0m
+2022-09-05 21:37:42 info: [0mGET /getDefaultData [32m201[0m 1.386 ms - 899[0m
+2022-09-05 21:37:55 info: [0mGET /getDefaultData [32m201[0m 1.908 ms - 899[0m
+2022-09-05 21:38:07 info: [0mGET /getDefaultData [32m201[0m 1.033 ms - 899[0m
+2022-09-05 21:38:18 info: [0mGET /getDefaultData [32m201[0m 1.196 ms - 899[0m
+2022-09-05 21:38:41 info: [0mGET /getDefaultData [32m201[0m 1.147 ms - 899[0m
+2022-09-05 21:56:23 info: [0mGET /getDefaultData [32m201[0m 1.143 ms - 899[0m
+2022-09-05 21:56:44 info: [0mGET /getDefaultData [32m201[0m 1.006 ms - 899[0m
+2022-09-05 21:57:40 info: [0mGET /getDefaultData [32m201[0m 0.653 ms - 899[0m
+2022-09-05 22:53:04 info: [0mGET /getDefaultData [32m201[0m 2.779 ms - 899[0m
+2022-09-05 22:54:35 info: [0mGET /getDefaultData [32m201[0m 1.491 ms - 899[0m
+2022-09-05 23:00:05 info: [0mGET /getDefaultData [32m201[0m 1.327 ms - 899[0m
+2022-09-05 23:00:27 info: [0mGET /getDefaultData [32m201[0m 1.804 ms - 899[0m

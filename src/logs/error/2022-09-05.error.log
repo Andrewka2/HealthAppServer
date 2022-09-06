@@ -1,0 +1,8 @@
+2022-09-05 16:17:29 error: 🔴 Unable to connect to the database: DriverPackageNotInstalledError: MongoDB package has not been found installed. Try to install it: npm install mongodb --save.
+2022-09-05 16:30:13 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.51.54.145:27017 closed.
+2022-09-05 16:31:41 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.51.54.145:27017 closed.
+2022-09-05 16:49:25 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.51.54.145:27017 closed.
+2022-09-05 16:54:54 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.51.54.145:27017 closed.
+2022-09-05 17:16:36 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 16.170.149.154:27017 closed.
+2022-09-05 17:44:56 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.49.37.16:27017 closed.
+2022-09-05 17:46:28 error: 🔴 Unable to connect to the database: MongoServerSelectionError: connection <monitor> to 13.49.37.16:27017 closed.

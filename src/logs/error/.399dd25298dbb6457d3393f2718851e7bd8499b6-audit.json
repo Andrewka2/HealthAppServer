@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\HealthAppServer\\healthappserver\\src\\logs\\error\\.399dd25298dbb6457d3393f2718851e7bd8499b6-audit.json",
+    "files": [
+        {
+            "date": 1662383845113,
+            "name": "D:\\HealthAppServer\\healthappserver\\src\\logs\\error\\2022-09-05.error.log",
+            "hash": "d1bca280acdf7db0bbe33e0433f58b4be94182849c1f5ec4a2b568f26fbe449b"
+        }
+    ],
+    "hashType": "sha256"
+}
