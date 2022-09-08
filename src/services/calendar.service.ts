@@ -3,37 +3,48 @@ import { AppDataSource } from '../database/index';
 
 class CalendarService {
   public calendar = CalendarEntity;
-  public async getDefautInfo(): Promise<any> {
-
-    let data = JSON.stringify({
-      "2022-09-04": [{
-        id: 1, procedure: "Плановий огляд", emergency: "Цеентральна лікарня", address: "вул. Перемоги 21",
-        name: "Петренко Петро Петрович", time: "10:20", cabinet: "322", position: 'педіатр', height: 110, day: '2022-09-04'
-      },
-      { id: 2, name: 'Item for 2022-09-04 #110', height: 110, day: '2022-09-04' },
-      { id: 3, name: 'Item for 2022-09-04 #1', height: 117, day: '2022-09-04' },
-      { id: 4, name: 'Item for 2022-09-04 #2', height: 113, day: '2022-09-04' }],
-      "2022-09-06": [{ name: '', height: 110, day: '2022-09-04' },
-      { id: 1, name: 'Item for 2022-09-04 #110', height: 110, day: '2022-09-04' },
-      { id: 2, name: 'Item for 2022-09-04 #1', height: 117, day: '2022-09-04' },
-      { id: 3, name: 'Item for 2022-09-04 #2', height: 113, day: '2022-09-04' }]
-    })
-
+  public async createCalendarItem(calendarItemCreateData) {
     let calendarRepository = await AppDataSource.getRepository(CalendarEntity)
     const createdCalendar = await calendarRepository.save({
-      date: '2022-09-04',
-      name: 'Петренко Петро Петрович',
-      procedure: 'Плановий огляд',
-      emergency: 'Цеентральна лікарня',
-      address: 'вул. Перемоги 21',
-      time: '10:20',
-      cabinet: '322',
-      position: 'педіатр',
-      height: 110,
+      date: calendarItemCreateData.date,
+      name: calendarItemCreateData.name,
+      procedure: calendarItemCreateData.procedure,
+      emergency: calendarItemCreateData.emergency,
+      address: calendarItemCreateData.address,
+      time: calendarItemCreateData.time,
+      cabinet: calendarItemCreateData.cabinet,
+      position: calendarItemCreateData.position,
+      height: calendarItemCreateData.height,
       createdAt: new Date(),
       updatedAt: new Date()
     })
     return createdCalendar;
+  }
+
+  public async getDefautInfo(): Promise<any> {
+    let calendarRepository = await AppDataSource.getRepository(CalendarEntity)
+    let calendars = await calendarRepository.find()
+    return JSON.stringify(calendars)
+  }
+
+  public async updateCalendarInfo(userInfo) {
+    console.log(userInfo)
+    let calendarRepository = await AppDataSource.getMongoRepository(CalendarEntity)
+    let calendar = await calendarRepository.findOne({
+      where: { name: userInfo.name }
+    })
+    for (let prop in userInfo) {
+      calendar[prop] = userInfo[prop]
+    }
+    await calendarRepository.update({ name: userInfo.name }, calendar)
+  }
+
+  public async deleteCalendarItemService(calendarDeleteData) {
+    let calendarRepository = await AppDataSource.getMongoRepository(CalendarEntity)
+    let test = await calendarRepository.findOne({ where: { id: calendarDeleteData.id } })
+    await calendarRepository.deleteOne({
+      id: calendarDeleteData.id
+    })
   }
 }
 

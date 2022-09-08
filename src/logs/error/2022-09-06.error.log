@@ -1,1 +1,3 @@
 2022-09-06 17:59:51 error: StatusCode : 500, Message : Cannot read properties of undefined (reading 'createValueMap')
+2022-09-06 23:07:03 error: StatusCode : 500, Message : Cannot read properties of undefined (reading 'id')
+2022-09-06 23:07:47 error: StatusCode : 500, Message : Unexpected token o in JSON at position 1

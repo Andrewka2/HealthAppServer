@@ -9,6 +9,16 @@
             "date": 1662446843616,
             "name": "D:\\HealthAppServer\\HealthAppServer\\src\\logs\\info\\2022-09-06.log",
             "hash": "7cc6096637631c0ce795b5521fa733b27dd815cf147285ca541fa46b31fac497"
+        },
+        {
+            "date": 1662559903604,
+            "name": "D:\\HealthAppServer\\HealthAppServer\\src\\logs\\info\\2022-09-07.log",
+            "hash": "9506800d21c45e0dbb12a3b4c29cfbbc05dd60b313acb79a564c1d3c69aa0f1e"
+        },
+        {
+            "date": 1662584441780,
+            "name": "D:\\HealthAppServer\\HealthAppServer\\src\\logs\\info\\2022-09-08.log",
+            "hash": "0b5515373dcd080e8470022d30509082d1d7d5d82d3bd6d3b248784388409c27"
         }
     ],
     "hashType": "sha256"

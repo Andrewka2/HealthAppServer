@@ -1,0 +1,11 @@
+2022-09-08 00:03:58 info: 🚀 App listening on the port 3000
+2022-09-08 00:03:59 info: 🟢 The database is connected.
+2022-09-08 00:04:45 info: 🚀 App listening on the port 3000
+2022-09-08 00:04:45 info: 🟢 The database is connected.
+2022-09-08 00:06:16 info: 🚀 App listening on the port 3000
+2022-09-08 00:06:17 info: 🟢 The database is connected.
+2022-09-08 00:06:53 info: 🚀 App listening on the port 3000
+2022-09-08 00:06:53 info: 🟢 The database is connected.
+2022-09-08 00:08:24 info: [0mGET /getDefaultData [32m201[0m 61.916 ms - -[0m
+2022-09-08 00:09:17 info: [0mGET /getDefaultData [32m201[0m 48.114 ms - -[0m
+2022-09-08 00:11:08 info: [0mGET /getDefaultData [32m201[0m 48.444 ms - -[0m

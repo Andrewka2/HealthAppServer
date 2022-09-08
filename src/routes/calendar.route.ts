@@ -11,6 +11,9 @@ class CalendarRoute implements Route {
 
   private initializeRoutes() {
     this.router.get('/getDefaultData',  this.calendarController.getDefaultData);
+    this.router.post('/updateCalendarData', this.calendarController.updateCalendarData);
+    this.router.post('/deleteCalendarItem', this.calendarController.deleteCalendarItem);
+    this.router.post('/createCalendarItem', this.calendarController.createCalendarItem);
   }
 }
 

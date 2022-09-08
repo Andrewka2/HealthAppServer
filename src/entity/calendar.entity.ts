@@ -1,10 +1,10 @@
-import { Entity, PrimaryGeneratedColumn, Column, Unique, CreateDateColumn, UpdateDateColumn, ObjectIdColumn  } from 'typeorm';
+import { Entity, PrimaryGeneratedColumn, ObjectID, Column, Unique, CreateDateColumn, UpdateDateColumn, ObjectIdColumn  } from 'typeorm';
 import { IsNotEmpty } from 'class-validator';
 
 @Entity()
 export class CalendarEntity {
   @ObjectIdColumn()
-  id: number;
+  id: ObjectID;
 
   @Column()
   @IsNotEmpty()

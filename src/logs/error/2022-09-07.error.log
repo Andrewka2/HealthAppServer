@@ -1,0 +1,83 @@
+2022-09-07 18:01:35 error: StatusCode : 500, Message : Update document requires atomic operators
+2022-09-07 18:05:09 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-07 18:18:27 error: StatusCode : 500, Message : Query Builder is not supported by MongoDB.
+2022-09-07 18:30:09 error: uncaughtException: Route.post() requires a callback function but got a [object Undefined]
+Error: Route.post() requires a callback function but got a [object Undefined]
+    at Route.<computed> [as post] (D:\HealthAppServer\HealthAppServer\node_modules\express\lib\router\route.js:211:15)
+    at Function.proto.<computed> [as post] (D:\HealthAppServer\HealthAppServer\node_modules\express\lib\router\index.js:521:19)
+    at CalendarRoute.initializeRoutes (D:\HealthAppServer\HealthAppServer\src\routes\calendar.route.ts:15:17)
+    at new CalendarRoute (D:\HealthAppServer\HealthAppServer\src\routes\calendar.route.ts:9:10)
+    at Object.<anonymous> (D:\HealthAppServer\HealthAppServer\src\server.ts:11:22)
+    at Module._compile (node:internal/modules/cjs/loader:1101:14)
+    at Module.m._compile (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+2022-09-07 18:31:27 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/calendar.controller.ts[0m:[93m29[0m:[93m110[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m29[0m       const deleteStatus = await this.calendarService.deleteCalendarItemService(calendarDeleteData = req.body;
+[7m  [0m [91m                                                                                                             ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/calendar.controller.ts[0m:[93m29[0m:[93m110[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m29[0m       const deleteStatus = await this.calendarService.deleteCalendarItemService(calendarDeleteData = req.body;
+[7m  [0m [91m                                                                                                             ~[0m
+
+    at createTSError (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:863:19)
+    at D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-09-07 18:32:16 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/calendar.controller.ts[0m:[93m29[0m:[93m110[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m29[0m       const deleteStatus = await this.calendarService.deleteCalendarItemService(calendarDeleteData = req.body;
+[7m  [0m [91m                                                                                                             ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/calendar.controller.ts[0m:[93m29[0m:[93m110[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m29[0m       const deleteStatus = await this.calendarService.deleteCalendarItemService(calendarDeleteData = req.body;
+[7m  [0m [91m                                                                                                             ~[0m
+
+    at createTSError (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:863:19)
+    at D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-09-07 18:38:03 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/calendar.controller.ts[0m:[93m29[0m:[93m110[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m29[0m       const deleteStatus = await this.calendarService.deleteCalendarItemService(calendarDeleteData = req.body;
+[7m  [0m [91m                                                                                                             ~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/calendar.controller.ts[0m:[93m29[0m:[93m110[0m - [91merror[0m[90m TS1005: [0m')' expected.
+
+[7m29[0m       const deleteStatus = await this.calendarService.deleteCalendarItemService(calendarDeleteData = req.body;
+[7m  [0m [91m                                                                                                             ~[0m
+
+    at createTSError (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:859:12)
+    at reportTSError (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:863:19)
+    at D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1379:34
+    at Object.compile (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1458:13)
+    at Module.m._compile (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1617:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1153:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\HealthAppServer\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Module.require (node:internal/modules/cjs/loader:1005:19)
+2022-09-07 19:31:23 error: StatusCode : 400, Message : Unexpected token " in JSON at position 0
+2022-09-07 20:28:02 error: StatusCode : 500, Message : typeorm_1.ObjectID is not a constructor
