@@ -1,0 +1,269 @@
+2022-09-17 09:41:46 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 09:42:15 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 09:42:18 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 09:43:57 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 09:49:09 error: StatusCode : 409, Message : You're email web21fdbgfnngf@test.com already exists
+2022-09-17 10:29:15 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 10:29:34 error: StatusCode : 400, Message : email must be an email
+2022-09-17 10:30:08 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 10:30:25 error: StatusCode : 400, Message : email must be an email
+2022-09-17 10:48:49 error: StatusCode : 400, Message : email must be an email
+2022-09-17 10:49:16 error: StatusCode : 400, Message : email must be an email
+2022-09-17 11:02:56 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:03:25 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:04:15 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:04:37 error: StatusCode : 409, Message : You're email web213rqw@test.com already exists
+2022-09-17 11:07:28 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:13:37 error: StatusCode : 409, Message : You're email web219ou87ik@test.com already exists
+2022-09-17 11:13:39 error: StatusCode : 409, Message : You're email web219ou87ik@test.com already exists
+2022-09-17 11:21:43 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:22:04 error: StatusCode : 409, Message : You're email web21rthtybhtgvfd@test.com already exists
+2022-09-17 11:22:06 error: StatusCode : 409, Message : You're email web21rthtybhtgvfd@test.com already exists
+2022-09-17 13:21:44 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:39:16 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:40:13 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:41:45 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:42:22 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:43:12 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:43:35 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:45:00 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:45:31 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:46:13 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:46:37 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:47:27 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:49:29 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:50:54 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:51:19 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:58:38 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:59:24 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:59:52 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 14:04:50 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 14:09:46 error: StatusCode : 409, Message : You're email web21vvcvdsvverv@test.com already exists
+2022-09-17 14:15:33 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:33 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:34 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:34 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:34 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:34 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:35 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:35 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:35 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:36 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:29:02 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 14:29:56 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 14:30:41 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 16:57:02 error: StatusCode : 400, Message : email must be an email
+2022-09-17 18:05:42 error: StatusCode : 409, Message : You're email web21zxcxzcxzcdscds@test.com already exists
+2022-09-17 19:01:27 error: StatusCode : 409, Message : You're email web21rw3rewr2r21r12r@test.com already exists
+2022-09-17 21:03:44 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:05:06 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:05:34 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:07:37 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:20:28 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:25:08 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:26:03 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:30:52 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:31:15 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:31:45 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:32:00 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:35:55 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 21:36:10 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:38:53 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:39:56 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:40:04 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:40:17 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:40:50 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:43:52 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:44:15 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:45:21 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:47:06 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:47:23 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:47:37 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:47:51 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:49:08 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-17 21:49:23 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:52:52 error: StatusCode : 500, Message : typeorm_1.ObjectID is not a constructor
+2022-09-17 21:53:13 error: StatusCode : 500, Message : typeorm_1.ObjectID is not a constructor
+2022-09-17 21:56:04 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-17 21:56:21 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-17 21:56:38 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-17 21:57:32 error: StatusCode : 500, Message : userIdChanged is not defined
+2022-09-17 21:57:55 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:57:58 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:58:16 error: StatusCode : 409, Message : You're not user

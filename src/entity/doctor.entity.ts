@@ -1,10 +1,10 @@
 import { IsNotEmpty } from "class-validator"
-import { Entity, ObjectID, ObjectIdColumn, Column, CreateDateColumn, UpdateDateColumn, PrimaryGeneratedColumn } from "typeorm"
+import { Entity, ObjectID, ObjectIdColumn, Column, CreateDateColumn, UpdateDateColumn } from "typeorm"
 import { Doctor } from "../interfaces/doctor.interface"
 
 @Entity()
 export class DoctorEntity implements Doctor {
-    @PrimaryGeneratedColumn()
+    @ObjectIdColumn()
     id: ObjectID
 
     @Column()

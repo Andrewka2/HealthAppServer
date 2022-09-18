@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "D:\\Code\\heathApp\\HealthAppServer\\src\\logs\\info\\.f6bc8fa8e8ea066fa91cb189cf91fcb4a391ab66-audit.json",
+    "files": [
+        {
+            "date": 1662815307607,
+            "name": "D:\\Code\\heathApp\\HealthAppServer\\src\\logs\\info\\2022-09-10.log",
+            "hash": "dde3cd7c8566e941e4652365cd58424bec9158ff65a361ca0d5f9524420cb97e"
+        },
+        {
+            "date": 1663063095081,
+            "name": "D:\\Code\\heathApp\\HealthAppServer\\src\\logs\\info\\2022-09-13.log",
+            "hash": "1e99ecb88b20bfd18998f92a16d19c184115e92f3142802c3d6f33e66d8b245f"
+        },
+        {
+            "date": 1663143491934,
+            "name": "D:\\Code\\heathApp\\HealthAppServer\\src\\logs\\info\\2022-09-14.log",
+            "hash": "b0ca984382685ccbbeeef9da1881584f6231de376dbc86136e2f98916a2c647a"
+        },
+        {
+            "date": 1663265059517,
+            "name": "D:\\Code\\heathApp\\HealthAppServer\\src\\logs\\info\\2022-09-15.log",
+            "hash": "0f29522f2aeadac7d1f9917cfb9f941224f6be342ef131033c2b0c9a878cb881"
+        },
+        {
+            "date": 1663275893479,
+            "name": "D:\\Code\\heathApp\\HealthAppServer\\src\\logs\\info\\2022-09-16.log",
+            "hash": "3e2dd7965aba263b555f2adad43f8a18f10034f42e360e66d4bee8a675104e96"
+        },
+        {
+            "date": 1663396901640,
+            "name": "D:\\Code\\heathApp\\HealthAppServer\\src\\logs\\info\\2022-09-17.log",
+            "hash": "e96162973a521e93318fa73523ed4a966a48fda144a3c9d9a3d1e4cbdf9c6f8f"
+        },
+        {
+            "date": 1663491775628,
+            "name": "D:\\Code\\heathApp\\HealthAppServer\\src\\logs\\info\\2022-09-18.log",
+            "hash": "6f69c24e2f55f731f0fe58a8576017ad7ebcfad05cd61874f6e1e5bac268efb4"
+        }
+    ],
+    "hashType": "sha256"
+}

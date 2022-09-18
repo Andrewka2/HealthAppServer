@@ -1,11 +1,11 @@
 import { IsNotEmpty } from "class-validator"
-import { Entity, ObjectID, ObjectIdColumn, Column, OneToOne, JoinColumn, CreateDateColumn, UpdateDateColumn, PrimaryGeneratedColumn } from "typeorm"
+import { Entity, ObjectID, ObjectIdColumn, Column, OneToOne, JoinColumn, CreateDateColumn, UpdateDateColumn } from "typeorm"
 import { UserData } from "../interfaces/userData.interface"
 import { UserEntity } from "./users.entity"
 
 @Entity()
 export class UserDataEntity implements UserData {
-    @PrimaryGeneratedColumn()
+    @ObjectIdColumn()
     id: ObjectID
 
     // @OneToOne(() => UserEntity, (user) => user.id)

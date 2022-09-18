@@ -1,0 +1,20 @@
+2022-09-14 11:42:45 error: StatusCode : 500, Message : req.body.data.length is not a function
+2022-09-14 11:43:10 error: StatusCode : 409, Message : You're email testWeb5@test.com already exists
+2022-09-14 12:48:56 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 12:57:33 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 12:57:34 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 12:57:41 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 12:58:23 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 12:58:32 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 12:59:24 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 12:59:34 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 13:00:48 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 13:01:34 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 13:03:53 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 13:06:22 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 13:16:48 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 13:17:23 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 13:39:33 error: StatusCode : 400, Message : email must be an email
+2022-09-14 13:39:46 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 13:48:23 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-14 13:48:35 error: StatusCode : 400, Message : email must be an email, password must be a string

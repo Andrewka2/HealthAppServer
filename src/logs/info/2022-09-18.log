@@ -1,0 +1,248 @@
+2022-09-18 12:02:59 info: 🚀 App listening on the port 3000
+2022-09-18 12:02:59 info: 🟢 The database is connected.
+2022-09-18 12:03:18 error: StatusCode : 500, Message : typeorm_1.ObjectID is not a constructor
+2022-09-18 12:03:18 info: [0mGET /getUserById [31m500[0m 147.239 ms - 53[0m
+2022-09-18 12:03:55 info: 🚀 App listening on the port 3000
+2022-09-18 12:03:56 info: 🟢 The database is connected.
+2022-09-18 12:04:08 info: 🚀 App listening on the port 3000
+2022-09-18 12:04:09 info: 🟢 The database is connected.
+2022-09-18 12:04:25 info: 🚀 App listening on the port 3000
+2022-09-18 12:04:26 info: 🟢 The database is connected.
+2022-09-18 12:04:55 info: 🚀 App listening on the port 3000
+2022-09-18 12:04:56 info: 🟢 The database is connected.
+2022-09-18 12:05:07 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:05:07 info: [0mGET /getUserById [33m409[0m 58.650 ms - 29[0m
+2022-09-18 12:06:32 info: 🚀 App listening on the port 3000
+2022-09-18 12:06:33 info: 🟢 The database is connected.
+2022-09-18 12:06:39 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:06:39 info: [0mGET /getUserById [33m409[0m 53.324 ms - 29[0m
+2022-09-18 12:07:16 info: 🚀 App listening on the port 3000
+2022-09-18 12:07:17 info: 🟢 The database is connected.
+2022-09-18 12:07:21 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:07:21 info: [0mGET /getUserById [33m409[0m 65.203 ms - 29[0m
+2022-09-18 12:07:37 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:07:37 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 52.227 ms - 29[0m
+2022-09-18 12:07:45 info: 🚀 App listening on the port 3000
+2022-09-18 12:07:46 info: 🟢 The database is connected.
+2022-09-18 12:07:51 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:07:51 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 170.888 ms - 29[0m
+2022-09-18 12:08:12 info: 🚀 App listening on the port 3000
+2022-09-18 12:08:13 info: 🟢 The database is connected.
+2022-09-18 12:08:17 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:08:17 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 56.334 ms - 29[0m
+2022-09-18 12:08:40 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:08:40 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 56.901 ms - 29[0m
+2022-09-18 12:09:04 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:09:04 info: [0mGET /getUserById [33m409[0m 48.386 ms - 29[0m
+2022-09-18 12:09:30 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:09:30 info: [0mGET /getUserById [33m409[0m 49.246 ms - 29[0m
+2022-09-18 12:11:44 info: [0mGET /getUserById/632612a06d95be9db54dd27b [33m404[0m 2.649 ms - 175[0m
+2022-09-18 12:12:15 info: [0mGET /getUserById/632612a06d95be9db54dd27b [33m404[0m 1.096 ms - 175[0m
+2022-09-18 12:12:41 info: [0mGET /getUserById/:id [33m404[0m 0.638 ms - 154[0m
+2022-09-18 12:13:18 info: 🚀 App listening on the port 3000
+2022-09-18 12:13:19 info: 🟢 The database is connected.
+2022-09-18 12:13:27 info: [0mGET /getUserById/632612a06d95be9db54dd27b [33m404[0m 7.841 ms - 175[0m
+2022-09-18 12:14:07 info: 🚀 App listening on the port 3000
+2022-09-18 12:14:08 info: 🟢 The database is connected.
+2022-09-18 12:14:12 info: [0mGET /getUserById/632612a06d95be9db54dd27b [33m404[0m 3.776 ms - 175[0m
+2022-09-18 12:15:46 info: 🚀 App listening on the port 3000
+2022-09-18 12:15:47 info: 🟢 The database is connected.
+2022-09-18 12:15:50 info: [0mGET /getUserById/632612a06d95be9db54dd27b [33m404[0m 4.756 ms - 175[0m
+2022-09-18 12:17:23 info: 🚀 App listening on the port 3000
+2022-09-18 12:17:24 info: 🟢 The database is connected.
+2022-09-18 12:17:32 info: [0mGET /getUserById/632612a06d95be9db54dd27b [33m404[0m 3.903 ms - 175[0m
+2022-09-18 12:17:44 info: 🚀 App listening on the port 3000
+2022-09-18 12:17:45 info: 🟢 The database is connected.
+2022-09-18 12:18:00 info: 🚀 App listening on the port 3000
+2022-09-18 12:18:01 info: 🟢 The database is connected.
+2022-09-18 12:18:48 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:18:48 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 61.558 ms - 29[0m
+2022-09-18 12:19:08 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:19:08 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 48.031 ms - 29[0m
+2022-09-18 12:21:12 info: 🚀 App listening on the port 3000
+2022-09-18 12:21:13 info: 🟢 The database is connected.
+2022-09-18 12:21:37 info: 🚀 App listening on the port 3000
+2022-09-18 12:21:38 info: 🟢 The database is connected.
+2022-09-18 12:22:09 info: 🚀 App listening on the port 3000
+2022-09-18 12:22:09 info: 🟢 The database is connected.
+2022-09-18 12:22:32 info: 🚀 App listening on the port 3000
+2022-09-18 12:22:33 info: 🟢 The database is connected.
+2022-09-18 12:22:42 info: 🚀 App listening on the port 3000
+2022-09-18 12:22:43 info: 🟢 The database is connected.
+2022-09-18 12:22:45 error: StatusCode : 500, Message : Cannot read properties of undefined (reading 'ObjectId')
+2022-09-18 12:22:45 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [31m500[0m 6.446 ms - 70[0m
+2022-09-18 12:25:32 info: 🚀 App listening on the port 3000
+2022-09-18 12:25:32 info: 🟢 The database is connected.
+2022-09-18 12:25:35 error: StatusCode : 500, Message : ObjectId is not a function
+2022-09-18 12:25:35 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [31m500[0m 4.984 ms - 40[0m
+2022-09-18 12:25:47 info: 🚀 App listening on the port 3000
+2022-09-18 12:25:47 info: 🟢 The database is connected.
+2022-09-18 12:25:50 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:25:50 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 84.169 ms - 29[0m
+2022-09-18 12:26:12 info: 🚀 App listening on the port 3000
+2022-09-18 12:26:13 info: 🟢 The database is connected.
+2022-09-18 12:26:17 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:26:17 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 53.808 ms - 29[0m
+2022-09-18 12:26:50 info: 🚀 App listening on the port 3000
+2022-09-18 12:26:50 info: 🟢 The database is connected.
+2022-09-18 12:26:55 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:26:55 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 56.864 ms - 29[0m
+2022-09-18 12:27:18 info: 🚀 App listening on the port 3000
+2022-09-18 12:27:19 info: 🟢 The database is connected.
+2022-09-18 12:27:35 info: 🚀 App listening on the port 3000
+2022-09-18 12:27:36 info: 🟢 The database is connected.
+2022-09-18 12:27:44 info: 🚀 App listening on the port 3000
+2022-09-18 12:27:45 info: 🟢 The database is connected.
+2022-09-18 12:27:59 info: 🚀 App listening on the port 3000
+2022-09-18 12:28:00 info: 🟢 The database is connected.
+2022-09-18 12:28:32 info: 🚀 App listening on the port 3000
+2022-09-18 12:28:33 info: 🟢 The database is connected.
+2022-09-18 12:29:11 info: 🚀 App listening on the port 3000
+2022-09-18 12:29:12 info: 🟢 The database is connected.
+2022-09-18 12:29:15 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:29:15 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 63.164 ms - 29[0m
+2022-09-18 12:31:25 info: [0mOPTIONS /createUser [32m204[0m 0.263 ms - 0[0m
+2022-09-18 12:31:26 info: [0mPOST /createUser [32m201[0m 227.031 ms - 267[0m
+2022-09-18 12:31:26 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:31:26 info: [0mGET /getUserById?id=6326e56e28b9c74da93b4bbb [33m409[0m 54.737 ms - 29[0m
+2022-09-18 12:32:09 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:32:09 info: [0mGET /getUserById?id=6326e56e28b9c74da93b4bbb [33m409[0m 48.194 ms - 29[0m
+2022-09-18 12:33:16 info: 🚀 App listening on the port 3000
+2022-09-18 12:33:17 info: 🟢 The database is connected.
+2022-09-18 12:33:19 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-18 12:33:19 info: [0mGET /getUserById?id=web21qw@test.com [31m500[0m 5.265 ms - 108[0m
+2022-09-18 12:33:35 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-18 12:33:35 info: [0mGET /getUserById?id=%27web21qw@test.com%27 [31m500[0m 2.425 ms - 108[0m
+2022-09-18 12:34:00 info: [0mGET /getUserById?id=6326e56e28b9c74da93b4bbb [32m200[0m 55.649 ms - 241[0m
+2022-09-18 12:35:08 info: 🚀 App listening on the port 3000
+2022-09-18 12:35:09 info: 🟢 The database is connected.
+2022-09-18 12:35:14 info: 🚀 App listening on the port 3000
+2022-09-18 12:35:15 info: 🟢 The database is connected.
+2022-09-18 12:35:20 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:35:20 info: [0mGET /getUserById?id=6326e56e28b9c74da93b4bbb [33m409[0m 53.987 ms - 29[0m
+2022-09-18 12:35:48 info: 🚀 App listening on the port 3000
+2022-09-18 12:35:49 info: 🟢 The database is connected.
+2022-09-18 12:35:50 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:35:50 info: [0mGET /getUserById?id=6326e56e28b9c74da93b4bbb [33m409[0m 56.865 ms - 29[0m
+2022-09-18 12:36:08 info: 🚀 App listening on the port 3000
+2022-09-18 12:36:08 info: 🟢 The database is connected.
+2022-09-18 12:36:09 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:36:09 info: [0mGET /getUserById?id=6326e56e28b9c74da93b4bbb [33m409[0m 55.070 ms - 29[0m
+2022-09-18 12:36:22 info: 🚀 App listening on the port 3000
+2022-09-18 12:36:23 info: 🟢 The database is connected.
+2022-09-18 12:38:26 info: 🚀 App listening on the port 3000
+2022-09-18 12:38:28 info: 🚀 App listening on the port 3000
+2022-09-18 12:38:29 info: 🟢 The database is connected.
+2022-09-18 12:39:18 info: 🚀 App listening on the port 3000
+2022-09-18 12:39:18 info: 🟢 The database is connected.
+2022-09-18 14:50:44 info: 🚀 App listening on the port 3000
+2022-09-18 14:50:44 info: 🟢 The database is connected.
+2022-09-18 14:53:44 info: 🚀 App listening on the port 3000
+2022-09-18 14:53:45 info: 🟢 The database is connected.
+2022-09-18 14:54:53 info: 🚀 App listening on the port 3000
+2022-09-18 14:54:54 info: 🟢 The database is connected.
+2022-09-18 14:56:16 info: 🚀 App listening on the port 3000
+2022-09-18 14:56:17 info: 🟢 The database is connected.
+2022-09-18 15:06:30 info: 🚀 App listening on the port 3000
+2022-09-18 15:06:31 info: 🟢 The database is connected.
+2022-09-18 15:16:17 info: 🚀 App listening on the port 3000
+2022-09-18 15:16:18 info: 🟢 The database is connected.
+2022-09-18 15:20:59 info: 🚀 App listening on the port 3000
+2022-09-18 15:21:00 info: 🟢 The database is connected.
+2022-09-18 15:21:24 info: 🟢 The database is connected.
+2022-09-18 15:22:25 info: 🚀 App listening on the port 3000
+2022-09-18 15:22:25 info: 🟢 The database is connected.
+2022-09-18 15:30:06 info: [0mOPTIONS /createUser [32m204[0m 1.247 ms - 0[0m
+2022-09-18 15:30:06 error: StatusCode : 409, Message : You're email web21qw@test.com already exists
+2022-09-18 15:30:06 info: [0mPOST /createUser [33m409[0m 78.957 ms - 58[0m
+2022-09-18 15:31:23 info: [0mOPTIONS /createUser [32m204[0m 0.119 ms - 0[0m
+2022-09-18 15:31:23 info: [0mPOST /createUser [32m201[0m 193.499 ms - 271[0m
+2022-09-18 15:31:24 error: StatusCode : 409, Message : You're not user
+2022-09-18 15:31:24 info: [0mGET /getUserById?id=63270f9bdc7e6d1da2d50425 [33m409[0m 61.227 ms - 29[0m
+2022-09-18 15:33:15 info: 🚀 App listening on the port 3000
+2022-09-18 15:33:16 info: 🟢 The database is connected.
+2022-09-18 15:34:48 info: 🚀 App listening on the port 3000
+2022-09-18 15:34:49 error: 🔴 Unable to connect to the database: MongoServerError: Index build failed: 141f829b-7ad6-4f7e-be52-0ce1fbea3875: Collection test.user_entity ( 719315e7-16aa-430f-8451-0b7c17e7ded2 ) :: caused by :: E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }.
+2022-09-18 15:35:29 info: 🚀 App listening on the port 3000
+2022-09-18 15:35:30 error: 🔴 Unable to connect to the database: MongoServerError: Index build failed: d9e77857-550d-4c25-9f6d-e139cb66f071: Collection test.user_entity ( 719315e7-16aa-430f-8451-0b7c17e7ded2 ) :: caused by :: E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }.
+2022-09-18 16:00:19 info: [0mOPTIONS /createUser [32m204[0m 1.301 ms - 0[0m
+2022-09-18 16:00:19 error: StatusCode : 500, Message : Cannot read properties of undefined (reading 'cursor')
+2022-09-18 16:00:19 info: [0mPOST /createUser [31m500[0m 27.748 ms - 68[0m
+2022-09-18 16:00:44 info: 🚀 App listening on the port 3000
+2022-09-18 16:00:45 error: 🔴 Unable to connect to the database: MongoServerError: Index build failed: f2c1d7f4-f9b6-4072-a2bd-0866c71d608a: Collection test.user_entity ( 719315e7-16aa-430f-8451-0b7c17e7ded2 ) :: caused by :: E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }.
+2022-09-18 16:01:28 info: 🚀 App listening on the port 3000
+2022-09-18 16:01:29 info: 🟢 The database is connected.
+2022-09-18 16:01:47 info: [0mOPTIONS /createUser [32m204[0m 1.992 ms - 0[0m
+2022-09-18 16:01:47 info: [0mPOST /createUser [32m201[0m 236.835 ms - 271[0m
+2022-09-18 16:01:47 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:01:47 info: [0mGET /getUserById?id=632716bbd85813841442c700 [33m409[0m 50.332 ms - 29[0m
+2022-09-18 16:02:55 info: [0mOPTIONS /createUser [32m204[0m 0.140 ms - 0[0m
+2022-09-18 16:02:55 error: StatusCode : 500, Message : E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }
+2022-09-18 16:02:55 info: [0mPOST /createUser [31m500[0m 202.076 ms - 135[0m
+2022-09-18 16:04:31 info: 🚀 App listening on the port 3000
+2022-09-18 16:04:32 info: 🟢 The database is connected.
+2022-09-18 16:04:51 info: [0mOPTIONS /createUser [32m204[0m 1.993 ms - 0[0m
+2022-09-18 16:04:51 error: StatusCode : 500, Message : E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }
+2022-09-18 16:04:51 info: [0mPOST /createUser [31m500[0m 243.275 ms - 135[0m
+2022-09-18 16:06:55 info: 🚀 App listening on the port 3000
+2022-09-18 16:06:55 info: 🟢 The database is connected.
+2022-09-18 16:07:34 info: [0mOPTIONS /createUser [32m204[0m 1.219 ms - 0[0m
+2022-09-18 16:07:34 info: [0mPOST /createUser [32m201[0m 238.616 ms - 273[0m
+2022-09-18 16:07:34 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:07:34 info: [0mGET /getUserById?id=632718161975a7fd5fb42fe8 [33m409[0m 54.299 ms - 29[0m
+2022-09-18 16:08:25 info: 🚀 App listening on the port 3000
+2022-09-18 16:08:25 info: 🟢 The database is connected.
+2022-09-18 16:09:06 info: 🚀 App listening on the port 3000
+2022-09-18 16:09:07 info: 🟢 The database is connected.
+2022-09-18 16:09:13 info: 🚀 App listening on the port 3000
+2022-09-18 16:09:14 info: 🟢 The database is connected.
+2022-09-18 16:12:23 info: [0mOPTIONS /createUser [32m204[0m 1.552 ms - 0[0m
+2022-09-18 16:12:23 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:12:23 info: [0mPOST /createUser [33m400[0m 22.599 ms - 39[0m
+2022-09-18 16:13:00 info: [0mOPTIONS /createUser [32m204[0m 0.165 ms - 0[0m
+2022-09-18 16:13:00 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:13:00 info: [0mPOST /createUser [33m400[0m 5.504 ms - 39[0m
+2022-09-18 16:13:53 info: [0mOPTIONS /createUser [32m204[0m 0.460 ms - 0[0m
+2022-09-18 16:13:53 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:13:53 info: [0mPOST /createUser [33m400[0m 3.514 ms - 39[0m
+2022-09-18 16:15:12 info: 🚀 App listening on the port 3000
+2022-09-18 16:15:12 info: 🟢 The database is connected.
+2022-09-18 16:15:24 info: [0mOPTIONS /createUser [32m204[0m 1.781 ms - 0[0m
+2022-09-18 16:15:24 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:15:24 info: [0mPOST /createUser [33m400[0m 33.116 ms - 39[0m
+2022-09-18 16:16:12 info: 🚀 App listening on the port 3000
+2022-09-18 16:16:13 info: 🟢 The database is connected.
+2022-09-18 16:16:33 info: [0mOPTIONS /createUser [32m204[0m 1.849 ms - 0[0m
+2022-09-18 16:16:33 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:16:33 info: [0mPOST /createUser [33m400[0m 27.158 ms - 39[0m
+2022-09-18 16:18:41 info: [0mOPTIONS /createUser [32m204[0m 0.123 ms - 0[0m
+2022-09-18 16:18:41 info: [0mPOST /createUser [32m201[0m 314.193 ms - 326[0m
+2022-09-18 16:18:41 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-18 16:18:41 info: [0mGET /getUserById?id=6733d82b-3c8a-4d5c-9132-06355b37afe6 [31m500[0m 2.091 ms - 108[0m
+2022-09-18 16:19:49 info: 🚀 App listening on the port 3000
+2022-09-18 16:19:49 info: 🟢 The database is connected.
+2022-09-18 16:19:59 info: [0mOPTIONS /createUser [32m204[0m 1.822 ms - 0[0m
+2022-09-18 16:19:59 info: [0mPOST /createUser [32m201[0m 321.756 ms - 314[0m
+2022-09-18 16:19:59 info: [0mGET /getUserById/:id=d127058f-57ac-4cce-963e-19f7745d80c4 [33m404[0m 3.126 ms - 191[0m
+2022-09-18 16:20:20 info: [0mGET /getUserById/:id=d127058f-57ac-4cce-963e-19f7745d80c4 [33m404[0m 2.178 ms - 191[0m
+2022-09-18 16:20:32 info: [0mGET /getUserById/d127058f-57ac-4cce-963e-19f7745d80c4 [33m404[0m 0.691 ms - 187[0m
+2022-09-18 16:20:46 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:20:46 info: [0mGET /getUserById?id=d127058f-57ac-4cce-963e-19f7745d80c4 [33m409[0m 48.101 ms - 29[0m
+2022-09-18 16:20:51 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:20:51 info: [0mGET /getUserById?id=d127058f-57ac-4cce-963e-19f7745d80c4 [33m409[0m 45.614 ms - 29[0m
+2022-09-18 16:21:16 info: 🚀 App listening on the port 3000
+2022-09-18 16:21:17 info: 🟢 The database is connected.
+2022-09-18 16:21:19 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:21:19 info: [0mGET /getUserById?id=d127058f-57ac-4cce-963e-19f7745d80c4 [33m409[0m 55.236 ms - 29[0m
+2022-09-18 16:21:26 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:21:26 info: [0mGET /getUserById?id=d127058f-57ac-4cce-963e-19f7745d80c4 [33m409[0m 48.651 ms - 29[0m
+2022-09-18 16:21:45 info: 🚀 App listening on the port 3000
+2022-09-18 16:21:46 info: 🟢 The database is connected.
+2022-09-18 16:21:48 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:21:48 info: [0mGET /getUserById?id=d127058f-57ac-4cce-963e-19f7745d80c4 [33m409[0m 54.911 ms - 29[0m
+2022-09-18 16:22:00 info: 🚀 App listening on the port 3000
+2022-09-18 16:22:01 info: 🟢 The database is connected.
+2022-09-18 16:22:03 info: [0mGET /getUserById?id=d127058f-57ac-4cce-963e-19f7745d80c4 [32m200[0m 54.974 ms - 290[0m
+2022-09-18 16:23:03 info: [0mOPTIONS /createUser [32m204[0m 0.384 ms - 0[0m
+2022-09-18 16:23:03 info: [0mPOST /createUser [32m201[0m 290.058 ms - 325[0m
+2022-09-18 16:23:04 info: [0mGET /getUserById?id=835f19ba-4b2b-472b-b54e-ccaffa7edf5f [32m200[0m 48.184 ms - 299[0m

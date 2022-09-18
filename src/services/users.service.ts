@@ -1,4 +1,4 @@
-import { getRepository } from 'typeorm';
+import { getRepository, ObjectID } from 'typeorm';
 import bcrypt from 'bcrypt';
 import { CreateUserDto } from '../dtos/users.dto';
 import HttpException from '../exceptions/HttpException';
@@ -15,9 +15,10 @@ class UserService {
     return users;
   }
 
-  public async findUserById(userId: number): Promise<User> {
+  public async findUserById(userId: string): Promise<User> {
+    
     const userRepository = getRepository(this.users);
-    const findUser: User = await userRepository.findOne({ where: { id: userId } });
+    const findUser: User = await userRepository.findOne({ where: { customId: userId } });
     if (!findUser) throw new HttpException(409, "You're not user");
 
     return findUser;
@@ -36,26 +37,26 @@ class UserService {
     return createUserData;
   }
 
-  public async updateUser(userId: number, userData: User): Promise<User> {
+  public async updateUser(userId: string, userData: User): Promise<User> {
     if (isEmpty(userData)) throw new HttpException(400, "You're not userData");
 
     const userRepository = getRepository(this.users);
-    const findUser: User = await userRepository.findOne({ where: { id: userId } });
+    const findUser: User = await userRepository.findOne({ where: { customId: userId  } });
     if (!findUser) throw new HttpException(409, "You're not user");
 
     const hashedPassword = await bcrypt.hash(userData.password, 10);
     await userRepository.update(userId, { ...userData, password: hashedPassword });
 
-    const updateUser: User = await userRepository.findOne({ where: { id: userId } });
+    const updateUser: User = await userRepository.findOne({ where: { customId: userId } });
     return updateUser;
   }
 
-  public async deleteUser(userId: number): Promise<User> {
+  public async deleteUser(userId: string): Promise<User> {
     const userRepository = getRepository(this.users);
-    const findUser: User = await userRepository.findOne({ where: { id: userId } });
+    const findUser: User = await userRepository.findOne({ where: { customId: userId } });
     if (!findUser) throw new HttpException(409, "You're not user");
 
-    await userRepository.delete({ id: userId });
+    await userRepository.delete({ customId: userId });
     return findUser;
   }
 }
