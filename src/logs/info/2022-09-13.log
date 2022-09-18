@@ -1,0 +1,145 @@
+2022-09-13 12:58:17 info: 🚀 App listening on the port 3000
+2022-09-13 12:58:18 info: 🟢 The database is connected.
+2022-09-13 13:00:34 info: [0mOPTIONS /users/createUser [32m204[0m 1.711 ms - 0[0m
+2022-09-13 13:00:34 info: [0mPOST /users/createUser [33m404[0m 32.938 ms - 156[0m
+2022-09-13 13:02:19 info: [0mOPTIONS /users/createUser [32m204[0m 0.123 ms - 0[0m
+2022-09-13 13:02:19 info: [0mPOST /users/createUser [33m404[0m 1.424 ms - 156[0m
+2022-09-13 13:04:52 info: [0mOPTIONS /createUser [32m204[0m 0.247 ms - 0[0m
+2022-09-13 13:04:52 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:04:52 info: [0mPOST /createUser [33m400[0m 5.872 ms - 63[0m
+2022-09-13 13:05:20 info: [0mOPTIONS /createUser [32m204[0m 0.131 ms - 0[0m
+2022-09-13 13:05:20 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:05:20 info: [0mPOST /createUser [33m400[0m 1.849 ms - 63[0m
+2022-09-13 13:08:12 info: [0mOPTIONS /createUser [32m204[0m 0.188 ms - 0[0m
+2022-09-13 13:08:12 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:08:12 info: [0mPOST /createUser [33m400[0m 1.831 ms - 63[0m
+2022-09-13 13:08:47 info: [0mOPTIONS /createUser [32m204[0m 0.112 ms - 0[0m
+2022-09-13 13:08:47 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:08:47 info: [0mPOST /createUser [33m400[0m 1.604 ms - 63[0m
+2022-09-13 13:10:30 info: 🚀 App listening on the port 3000
+2022-09-13 13:10:31 info: 🟢 The database is connected.
+2022-09-13 13:10:54 info: [0mOPTIONS /createUser [32m204[0m 1.215 ms - 0[0m
+2022-09-13 13:10:54 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:10:54 info: [0mPOST /createUser [33m400[0m 23.274 ms - 63[0m
+2022-09-13 13:11:19 info: 🚀 App listening on the port 3000
+2022-09-13 13:11:20 info: 🟢 The database is connected.
+2022-09-13 13:12:36 info: 🚀 App listening on the port 3000
+2022-09-13 13:12:37 info: 🟢 The database is connected.
+2022-09-13 13:12:41 info: [0mOPTIONS /createUser [32m204[0m 1.305 ms - 0[0m
+2022-09-13 13:12:41 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:12:41 info: [0mPOST /createUser [33m400[0m 23.896 ms - 63[0m
+2022-09-13 13:15:37 info: 🚀 App listening on the port 3000
+2022-09-13 13:15:38 info: 🟢 The database is connected.
+2022-09-13 13:15:43 info: [0mOPTIONS /createUser [32m204[0m 1.448 ms - 0[0m
+2022-09-13 13:15:43 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:15:43 info: [0mPOST /createUser [33m400[0m 22.832 ms - 63[0m
+2022-09-13 13:16:25 info: 🚀 App listening on the port 3000
+2022-09-13 13:16:26 info: 🟢 The database is connected.
+2022-09-13 13:16:34 info: [0mOPTIONS /createUser [32m204[0m 1.373 ms - 0[0m
+2022-09-13 13:16:34 error: StatusCode : 500, Message : Cannot read properties of undefined (reading 'constructor')
+2022-09-13 13:16:34 info: [0mPOST /createUser [31m500[0m 20.707 ms - 73[0m
+2022-09-13 13:16:54 info: 🚀 App listening on the port 3000
+2022-09-13 13:16:55 info: 🟢 The database is connected.
+2022-09-13 13:16:58 info: [0mOPTIONS /createUser [32m204[0m 1.260 ms - 0[0m
+2022-09-13 13:16:58 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:16:58 info: [0mPOST /createUser [33m400[0m 24.083 ms - 63[0m
+2022-09-13 13:17:52 info: 🚀 App listening on the port 3000
+2022-09-13 13:17:53 info: 🟢 The database is connected.
+2022-09-13 13:17:57 info: [0mOPTIONS /createUser [32m204[0m 1.209 ms - 0[0m
+2022-09-13 13:17:57 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:17:57 info: [0mPOST /createUser [33m400[0m 27.689 ms - 63[0m
+2022-09-13 13:18:49 info: 🚀 App listening on the port 3000
+2022-09-13 13:18:50 info: 🟢 The database is connected.
+2022-09-13 13:18:52 info: [0mOPTIONS /createUser [32m204[0m 1.945 ms - 0[0m
+2022-09-13 13:18:52 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:18:52 info: [0mPOST /createUser [33m400[0m 32.190 ms - 63[0m
+2022-09-13 13:19:25 info: 🚀 App listening on the port 3000
+2022-09-13 13:19:26 info: 🟢 The database is connected.
+2022-09-13 13:19:31 info: [0mOPTIONS /createUser [32m204[0m 1.295 ms - 0[0m
+2022-09-13 13:19:31 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:19:31 info: [0mPOST /createUser [33m400[0m 31.299 ms - 63[0m
+2022-09-13 13:20:41 info: 🚀 App listening on the port 3000
+2022-09-13 13:20:41 info: 🟢 The database is connected.
+2022-09-13 13:20:45 info: [0mOPTIONS /createUser [32m204[0m 1.321 ms - 0[0m
+2022-09-13 13:20:45 error: StatusCode : 500, Message : data and salt arguments required
+2022-09-13 13:20:45 info: [0mPOST /createUser [31m500[0m 79.196 ms - 46[0m
+2022-09-13 13:21:17 info: 🚀 App listening on the port 3000
+2022-09-13 13:21:18 info: 🟢 The database is connected.
+2022-09-13 13:21:20 info: [0mOPTIONS /createUser [32m204[0m 1.398 ms - 0[0m
+2022-09-13 13:21:20 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:21:20 info: [0mPOST /createUser [33m400[0m 26.956 ms - 63[0m
+2022-09-13 13:51:40 info: 🚀 App listening on the port 3000
+2022-09-13 13:51:41 info: 🟢 The database is connected.
+2022-09-13 13:52:46 info: 🚀 App listening on the port 3000
+2022-09-13 13:52:47 info: 🟢 The database is connected.
+2022-09-13 13:52:54 info: 🚀 App listening on the port 3000
+2022-09-13 13:52:55 info: 🟢 The database is connected.
+2022-09-13 13:52:59 info: [0mOPTIONS /createUser [32m204[0m 1.377 ms - 0[0m
+2022-09-13 13:52:59 error: StatusCode : 500, Message : data and salt arguments required
+2022-09-13 13:52:59 info: [0mPOST /createUser [31m500[0m 71.763 ms - 46[0m
+2022-09-13 13:53:53 info: 🚀 App listening on the port 3000
+2022-09-13 13:53:54 info: 🟢 The database is connected.
+2022-09-13 13:55:53 info: 🚀 App listening on the port 3000
+2022-09-13 13:55:54 info: 🟢 The database is connected.
+2022-09-13 13:55:58 info: [0mOPTIONS /createUser [32m204[0m 1.704 ms - 0[0m
+2022-09-13 13:55:58 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:55:58 info: [0mPOST /createUser [33m400[0m 23.836 ms - 63[0m
+2022-09-13 13:56:41 info: 🚀 App listening on the port 3000
+2022-09-13 13:56:42 info: 🟢 The database is connected.
+2022-09-13 13:56:45 info: [0mOPTIONS /createUser [32m204[0m 1.253 ms - 0[0m
+2022-09-13 13:56:45 error: StatusCode : 500, Message : data and salt arguments required
+2022-09-13 13:56:45 info: [0mPOST /createUser [31m500[0m 87.529 ms - 46[0m
+2022-09-13 13:57:25 info: 🚀 App listening on the port 3000
+2022-09-13 13:57:26 info: 🟢 The database is connected.
+2022-09-13 13:57:39 info: 🚀 App listening on the port 3000
+2022-09-13 13:57:40 info: 🟢 The database is connected.
+2022-09-13 13:57:44 info: [0mOPTIONS /createUser [32m204[0m 1.577 ms - 0[0m
+2022-09-13 13:57:44 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:57:44 info: [0mPOST /createUser [33m400[0m 29.183 ms - 63[0m
+2022-09-13 13:58:16 info: [0mOPTIONS /createUser [32m204[0m 0.252 ms - 0[0m
+2022-09-13 13:58:16 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 13:58:16 info: [0mPOST /createUser [33m400[0m 3.514 ms - 63[0m
+2022-09-13 14:00:00 info: 🚀 App listening on the port 3000
+2022-09-13 14:00:01 info: 🟢 The database is connected.
+2022-09-13 14:00:03 info: [0mOPTIONS /createUser [32m204[0m 1.639 ms - 0[0m
+2022-09-13 14:00:03 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-13 14:00:03 info: [0mPOST /createUser [33m400[0m 26.555 ms - 63[0m
+2022-09-13 14:00:34 info: 🚀 App listening on the port 3000
+2022-09-13 14:00:34 info: 🟢 The database is connected.
+2022-09-13 14:00:38 info: [0mOPTIONS /createUser [32m204[0m 1.354 ms - 0[0m
+2022-09-13 14:00:39 error: StatusCode : 500, Message : data and salt arguments required
+2022-09-13 14:00:39 info: [0mPOST /createUser [31m500[0m 79.906 ms - 46[0m
+2022-09-13 14:01:09 info: 🚀 App listening on the port 3000
+2022-09-13 14:01:10 info: 🟢 The database is connected.
+2022-09-13 14:01:15 info: [0mOPTIONS /createUser [32m204[0m 1.390 ms - 0[0m
+2022-09-13 14:01:15 error: StatusCode : 500, Message : Cannot read properties of undefined (reading 'createValueMap')
+2022-09-13 14:01:15 info: [0mPOST /createUser [31m500[0m 208.100 ms - 76[0m
+2022-09-13 14:01:54 info: 🚀 App listening on the port 3000
+2022-09-13 14:01:55 info: 🟢 The database is connected.
+2022-09-13 14:01:57 info: [0mOPTIONS /createUser [32m204[0m 1.232 ms - 0[0m
+2022-09-13 14:01:57 error: StatusCode : 409, Message : You're email testWeb@gmail.com already exists
+2022-09-13 14:01:57 info: [0mPOST /createUser [33m409[0m 75.933 ms - 59[0m
+2022-09-13 14:03:16 info: [0mOPTIONS /createUser [32m204[0m 0.304 ms - 0[0m
+2022-09-13 14:03:16 error: StatusCode : 500, Message : Cannot read properties of undefined (reading 'createValueMap')
+2022-09-13 14:03:16 info: [0mPOST /createUser [31m500[0m 184.144 ms - 76[0m
+2022-09-13 14:08:55 info: 🚀 App listening on the port 3000
+2022-09-13 14:08:56 info: 🟢 The database is connected.
+2022-09-13 14:10:23 info: 🚀 App listening on the port 3000
+2022-09-13 14:10:24 info: 🟢 The database is connected.
+2022-09-13 14:12:45 info: 🚀 App listening on the port 3000
+2022-09-13 14:12:46 info: 🟢 The database is connected.
+2022-09-13 14:12:50 info: 🚀 App listening on the port 3000
+2022-09-13 14:12:51 info: 🟢 The database is connected.
+2022-09-13 14:13:23 info: 🚀 App listening on the port 3000
+2022-09-13 14:13:23 info: 🟢 The database is connected.
+2022-09-13 14:13:38 info: 🚀 App listening on the port 3000
+2022-09-13 14:13:39 info: 🟢 The database is connected.
+2022-09-13 14:13:50 info: 🚀 App listening on the port 3000
+2022-09-13 14:13:51 info: 🟢 The database is connected.
+2022-09-13 14:13:54 info: 🚀 App listening on the port 3000
+2022-09-13 14:13:54 info: 🟢 The database is connected.
+2022-09-13 14:14:08 info: [0mOPTIONS /createUser [32m204[0m 2.230 ms - 0[0m
+2022-09-13 14:14:08 error: StatusCode : 409, Message : You're email testWeb2@gmail.com already exists
+2022-09-13 14:14:08 info: [0mPOST /createUser [33m409[0m 86.163 ms - 60[0m
+2022-09-13 14:14:19 info: [0mOPTIONS /createUser [32m204[0m 0.262 ms - 0[0m
+2022-09-13 14:14:19 info: [0mPOST /createUser [32m201[0m 180.010 ms - 243[0m

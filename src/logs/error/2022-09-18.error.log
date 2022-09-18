@@ -1,0 +1,110 @@
+2022-09-18 12:03:18 error: StatusCode : 500, Message : typeorm_1.ObjectID is not a constructor
+2022-09-18 12:05:07 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:06:39 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:07:21 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:07:37 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:07:51 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:08:17 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:08:40 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:09:04 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:09:30 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:18:48 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:19:08 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:21:16 error: uncaughtException: Cannot find module 'mongoose'
+Require stack:
+- D:\Code\heathApp\HealthAppServer\src\controllers\users.controller.ts
+- D:\Code\heathApp\HealthAppServer\src\routes\users.route.ts
+- D:\Code\heathApp\HealthAppServer\src\server.ts
+Error: Cannot find module 'mongoose'
+Require stack:
+- D:\Code\heathApp\HealthAppServer\src\controllers\users.controller.ts
+- D:\Code\heathApp\HealthAppServer\src\routes\users.route.ts
+- D:\Code\heathApp\HealthAppServer\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue [as _resolveFilename] (D:\Code\heathApp\HealthAppServer\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at UsersController.getUserById (D:\Code\heathApp\HealthAppServer\src\controllers\users.controller.ts:23:20)
+    at Layer.handle [as handle_request] (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\layer.js:95:5)
+2022-09-18 12:21:50 error: uncaughtException: Cannot find module 'mongoose'
+Require stack:
+- D:\Code\heathApp\HealthAppServer\src\controllers\users.controller.ts
+- D:\Code\heathApp\HealthAppServer\src\routes\users.route.ts
+- D:\Code\heathApp\HealthAppServer\src\server.ts
+Error: Cannot find module 'mongoose'
+Require stack:
+- D:\Code\heathApp\HealthAppServer\src\controllers\users.controller.ts
+- D:\Code\heathApp\HealthAppServer\src\routes\users.route.ts
+- D:\Code\heathApp\HealthAppServer\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:956:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue [as _resolveFilename] (D:\Code\heathApp\HealthAppServer\node_modules\@cspotcode\source-map-support\source-map-support.js:811:30)
+    at Function.Module._load (node:internal/modules/cjs/loader:804:27)
+    at Module.require (node:internal/modules/cjs/loader:1028:19)
+    at require (node:internal/modules/cjs/helpers:102:18)
+    at UsersController.getUserById (D:\Code\heathApp\HealthAppServer\src\controllers\users.controller.ts:23:20)
+    at Layer.handle [as handle_request] (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\layer.js:95:5)
+2022-09-18 12:22:13 error: uncaughtException: Cannot read properties of undefined (reading 'ObjectId')
+TypeError: Cannot read properties of undefined (reading 'ObjectId')
+    at UsersController.getUserById (D:\Code\heathApp\HealthAppServer\src\controllers\users.controller.ts:24:29)
+    at Layer.handle [as handle_request] (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\route.js:144:13)
+    at Route.dispatch (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\route.js:114:3)
+    at Layer.handle [as handle_request] (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\layer.js:95:5)
+    at D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\router\index.js:47:12)
+2022-09-18 12:22:45 error: StatusCode : 500, Message : Cannot read properties of undefined (reading 'ObjectId')
+2022-09-18 12:25:35 error: StatusCode : 500, Message : ObjectId is not a function
+2022-09-18 12:25:50 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:26:17 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:26:55 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:29:15 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:31:26 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:32:09 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:33:19 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-18 12:33:35 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-18 12:35:20 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:35:50 error: StatusCode : 409, Message : You're not user
+2022-09-18 12:36:09 error: StatusCode : 409, Message : You're not user
+2022-09-18 15:21:23 error: uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (node:net:1432:16)
+    at listenInCluster (node:net:1480:12)
+    at Server.listen (node:net:1568:7)
+    at Function.listen (D:\Code\heathApp\HealthAppServer\node_modules\express\lib\application.js:635:24)
+    at App.listen (D:\Code\heathApp\HealthAppServer\src\app.ts:35:14)
+    at Object.<anonymous> (D:\Code\heathApp\HealthAppServer\src\server.ts:13:5)
+    at Module._compile (node:internal/modules/cjs/loader:1126:14)
+    at Module.m._compile (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1618:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1180:10)
+    at Object.require.extensions.<computed> [as .ts] (D:\Code\heathApp\HealthAppServer\node_modules\ts-node\src\index.ts:1621:12)
+2022-09-18 15:30:06 error: StatusCode : 409, Message : You're email web21qw@test.com already exists
+2022-09-18 15:31:24 error: StatusCode : 409, Message : You're not user
+2022-09-18 15:34:49 error: 🔴 Unable to connect to the database: MongoServerError: Index build failed: 141f829b-7ad6-4f7e-be52-0ce1fbea3875: Collection test.user_entity ( 719315e7-16aa-430f-8451-0b7c17e7ded2 ) :: caused by :: E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }.
+2022-09-18 15:35:30 error: 🔴 Unable to connect to the database: MongoServerError: Index build failed: d9e77857-550d-4c25-9f6d-e139cb66f071: Collection test.user_entity ( 719315e7-16aa-430f-8451-0b7c17e7ded2 ) :: caused by :: E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }.
+2022-09-18 16:00:19 error: StatusCode : 500, Message : Cannot read properties of undefined (reading 'cursor')
+2022-09-18 16:00:45 error: 🔴 Unable to connect to the database: MongoServerError: Index build failed: f2c1d7f4-f9b6-4072-a2bd-0866c71d608a: Collection test.user_entity ( 719315e7-16aa-430f-8451-0b7c17e7ded2 ) :: caused by :: E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }.
+2022-09-18 16:01:47 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:02:55 error: StatusCode : 500, Message : E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }
+2022-09-18 16:04:51 error: StatusCode : 500, Message : E11000 duplicate key error collection: test.user_entity index: UQ_4183150bc8df2354a42e9aa7090 dup key: { customId: null }
+2022-09-18 16:07:34 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:12:23 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:13:00 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:13:53 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:15:24 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:16:33 error: StatusCode : 400, Message : customId must be a string
+2022-09-18 16:18:41 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-18 16:20:46 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:20:51 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:21:19 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:21:26 error: StatusCode : 409, Message : You're not user
+2022-09-18 16:21:48 error: StatusCode : 409, Message : You're not user

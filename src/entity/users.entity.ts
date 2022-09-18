@@ -1,12 +1,15 @@
-import { Entity, PrimaryGeneratedColumn, Column, Unique, CreateDateColumn, UpdateDateColumn } from 'typeorm';
+import { Entity, Column, Unique, CreateDateColumn, UpdateDateColumn, ObjectIdColumn, ObjectID } from 'typeorm';
 import { IsNotEmpty } from 'class-validator';
 import { User } from '../interfaces/users.interface';
 
 @Entity()
-@Unique(['email'])
+@Unique(['email', 'customId'])
 export class UserEntity implements User {
-  @PrimaryGeneratedColumn()
-  id: number;
+  @ObjectIdColumn()
+  id: ObjectID;
+
+  @Column()
+  customId: string;
 
   @Column()
   @IsNotEmpty()

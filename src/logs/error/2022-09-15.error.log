@@ -1,0 +1,7 @@
+2022-09-15 21:13:54 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-15 21:14:22 error: StatusCode : 400, Message : password must be a string
+2022-09-15 21:14:32 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-15 21:14:39 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-15 21:23:20 error: StatusCode : 400, Message : email must be an email
+2022-09-15 21:26:21 error: StatusCode : 400, Message : email must be an email
+2022-09-15 21:47:55 error: StatusCode : 400, Message : email must be an email, password must be a string

@@ -1,10 +1,10 @@
 import { IsNotEmpty } from "class-validator"
-import { Column, CreateDateColumn, Entity, ObjectID, PrimaryGeneratedColumn, UpdateDateColumn } from "typeorm"
+import { Column, CreateDateColumn, Entity, ObjectID, ObjectIdColumn, UpdateDateColumn } from "typeorm"
 import { Specializations } from "../interfaces/specializations.interface";
 
 @Entity()
 export class SpecializationsEntity implements Specializations {
-    @PrimaryGeneratedColumn()
+    @ObjectIdColumn()
     id: ObjectID
 
     @Column()

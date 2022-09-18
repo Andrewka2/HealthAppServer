@@ -1,10 +1,10 @@
 import { IsNotEmpty } from "class-validator"
-import { Column, CreateDateColumn, Entity, ObjectID, PrimaryGeneratedColumn, UpdateDateColumn } from "typeorm"
+import { Column, CreateDateColumn, Entity, ObjectID, ObjectIdColumn, UpdateDateColumn } from "typeorm"
 import { EventData } from "../interfaces/event.interface";
 
 @Entity()
 export class EventDataEntity implements EventData {
-    @PrimaryGeneratedColumn()
+    @ObjectIdColumn()
     id: ObjectID
 
     @Column()

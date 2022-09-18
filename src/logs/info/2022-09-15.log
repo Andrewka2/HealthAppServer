@@ -1,0 +1,78 @@
+2022-09-15 21:04:21 info: 🚀 App listening on the port 3000
+2022-09-15 21:04:22 info: 🟢 The database is connected.
+2022-09-15 21:06:34 info: [0mOPTIONS /createUser [32m204[0m 2.120 ms - 0[0m
+2022-09-15 21:06:35 info: [0mPOST /createUser [32m201[0m 286.877 ms - 265[0m
+2022-09-15 21:10:36 info: [0mOPTIONS /createUser [32m204[0m 0.169 ms - 0[0m
+2022-09-15 21:10:36 info: [0mPOST /createUser [32m201[0m 218.740 ms - 259[0m
+2022-09-15 21:13:54 info: [0mOPTIONS /createUser [32m204[0m 0.370 ms - 0[0m
+2022-09-15 21:13:54 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-15 21:13:54 info: [0mPOST /createUser [33m400[0m 2.830 ms - 63[0m
+2022-09-15 21:14:22 info: [0mOPTIONS /createUser [32m204[0m 0.181 ms - 0[0m
+2022-09-15 21:14:22 error: StatusCode : 400, Message : password must be a string
+2022-09-15 21:14:22 info: [0mPOST /createUser [33m400[0m 2.545 ms - 39[0m
+2022-09-15 21:14:32 info: [0mOPTIONS /createUser [32m204[0m 0.110 ms - 0[0m
+2022-09-15 21:14:32 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-15 21:14:32 info: [0mPOST /createUser [33m400[0m 1.965 ms - 63[0m
+2022-09-15 21:14:39 info: [0mOPTIONS /createUser [32m204[0m 0.113 ms - 0[0m
+2022-09-15 21:14:39 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-15 21:14:39 info: [0mPOST /createUser [33m400[0m 1.925 ms - 63[0m
+2022-09-15 21:14:57 info: [0mOPTIONS /createUser [32m204[0m 0.294 ms - 0[0m
+2022-09-15 21:14:57 info: [0mPOST /createUser [32m201[0m 218.109 ms - 264[0m
+2022-09-15 21:16:28 info: [0mOPTIONS /createUser [32m204[0m 0.195 ms - 0[0m
+2022-09-15 21:16:28 info: [0mPOST /createUser [32m201[0m 215.271 ms - 264[0m
+2022-09-15 21:19:00 info: [0mOPTIONS /createUser [32m204[0m 0.234 ms - 0[0m
+2022-09-15 21:19:00 info: [0mPOST /createUser [32m201[0m 238.137 ms - 264[0m
+2022-09-15 21:22:55 info: [0mOPTIONS /createUser [32m204[0m 0.139 ms - 0[0m
+2022-09-15 21:22:55 info: [0mPOST /createUser [32m201[0m 209.870 ms - 240[0m
+2022-09-15 21:23:20 info: [0mOPTIONS /createUser [32m204[0m 0.141 ms - 0[0m
+2022-09-15 21:23:20 error: StatusCode : 400, Message : email must be an email
+2022-09-15 21:23:20 info: [0mPOST /createUser [33m400[0m 2.593 ms - 36[0m
+2022-09-15 21:23:46 info: [0mOPTIONS /createUser [32m204[0m 0.197 ms - 0[0m
+2022-09-15 21:23:46 info: [0mPOST /createUser [32m201[0m 218.687 ms - 265[0m
+2022-09-15 21:24:42 info: [0mOPTIONS /createUser [32m204[0m 0.205 ms - 0[0m
+2022-09-15 21:24:42 info: [0mPOST /createUser [32m201[0m 233.166 ms - 259[0m
+2022-09-15 21:25:31 info: [0mOPTIONS /createUser [32m204[0m 0.114 ms - 0[0m
+2022-09-15 21:25:31 info: [0mPOST /createUser [32m201[0m 212.240 ms - 267[0m
+2022-09-15 21:26:21 info: [0mOPTIONS /createUser [32m204[0m 0.202 ms - 0[0m
+2022-09-15 21:26:21 error: StatusCode : 400, Message : email must be an email
+2022-09-15 21:26:21 info: [0mPOST /createUser [33m400[0m 2.045 ms - 36[0m
+2022-09-15 21:26:36 info: [0mOPTIONS /createUser [32m204[0m 0.127 ms - 0[0m
+2022-09-15 21:26:36 info: [0mPOST /createUser [32m201[0m 219.700 ms - 267[0m
+2022-09-15 21:42:52 info: [0mOPTIONS /createUser [32m204[0m 0.128 ms - 0[0m
+2022-09-15 21:42:52 info: [0mPOST /createUser [32m201[0m 210.404 ms - 268[0m
+2022-09-15 21:43:48 info: [0mOPTIONS /createUser [32m204[0m 0.103 ms - 0[0m
+2022-09-15 21:43:48 info: [0mPOST /createUser [32m201[0m 219.489 ms - 268[0m
+2022-09-15 21:44:32 info: [0mOPTIONS /createUser [32m204[0m 0.156 ms - 0[0m
+2022-09-15 21:44:33 info: [0mPOST /createUser [32m201[0m 220.646 ms - 268[0m
+2022-09-15 21:47:55 info: [0mOPTIONS /createUser [32m204[0m 0.231 ms - 0[0m
+2022-09-15 21:47:55 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-15 21:47:55 info: [0mPOST /createUser [33m400[0m 3.666 ms - 63[0m
+2022-09-15 21:48:14 info: [0mOPTIONS /createUser [32m204[0m 0.104 ms - 0[0m
+2022-09-15 21:48:14 info: [0mPOST /createUser [32m201[0m 203.527 ms - 270[0m
+2022-09-15 21:49:18 info: [0mOPTIONS /createUser [32m204[0m 0.154 ms - 0[0m
+2022-09-15 21:49:18 info: [0mPOST /createUser [32m201[0m 216.252 ms - 276[0m
+2022-09-15 21:59:46 info: [0mOPTIONS /createUser [32m204[0m 0.284 ms - 0[0m
+2022-09-15 21:59:46 info: [0mPOST /createUser [32m201[0m 217.408 ms - 270[0m
+2022-09-15 22:00:44 info: [0mOPTIONS /createUser [32m204[0m 0.133 ms - 0[0m
+2022-09-15 22:00:45 info: [0mPOST /createUser [32m201[0m 204.471 ms - 272[0m
+2022-09-15 22:04:27 info: [0mOPTIONS /createUser [32m204[0m 0.112 ms - 0[0m
+2022-09-15 22:04:27 info: [0mPOST /createUser [32m201[0m 232.627 ms - 272[0m
+2022-09-15 22:09:00 info: [0mOPTIONS /createUser [32m204[0m 0.151 ms - 0[0m
+2022-09-15 22:09:00 info: [0mPOST /createUser [32m201[0m 556.722 ms - 270[0m
+2022-09-15 22:14:26 info: [0mOPTIONS /createUser [32m204[0m 0.116 ms - 0[0m
+2022-09-15 22:14:26 info: [0mPOST /createUser [32m201[0m 206.721 ms - 272[0m
+2022-09-15 22:20:41 info: [0mOPTIONS /createUser [32m204[0m 0.178 ms - 0[0m
+2022-09-15 22:20:42 info: [0mPOST /createUser [32m201[0m 204.431 ms - 270[0m
+2022-09-15 22:21:09 info: [0mOPTIONS /createUser [32m204[0m 0.170 ms - 0[0m
+2022-09-15 22:21:09 info: [0mPOST /createUser [32m201[0m 245.375 ms - 275[0m
+2022-09-15 22:22:30 info: [0mOPTIONS /createUser [32m204[0m 0.105 ms - 0[0m
+2022-09-15 22:22:30 info: [0mPOST /createUser [32m201[0m 215.451 ms - 270[0m
+2022-09-15 22:23:07 info: [0mOPTIONS /createUser [32m204[0m 0.099 ms - 0[0m
+2022-09-15 22:23:07 info: [0mPOST /createUser [32m201[0m 212.542 ms - 270[0m
+2022-09-15 22:29:14 info: [0mOPTIONS /createUser [32m204[0m 0.115 ms - 0[0m
+2022-09-15 22:29:14 info: [0mPOST /createUser [32m201[0m 231.092 ms - 276[0m
+2022-09-15 22:35:54 info: [0mGET /getDefaultData [32m201[0m 46.813 ms - 912[0m
+2022-09-15 22:41:38 info: [0mGET /getDefaultData [32m201[0m 59.315 ms - 912[0m
+2022-09-15 23:10:32 info: [0mGET /getDefaultData [32m201[0m 46.986 ms - 912[0m
+2022-09-15 23:38:11 info: 🚀 App listening on the port 3000
+2022-09-15 23:38:12 info: 🟢 The database is connected.

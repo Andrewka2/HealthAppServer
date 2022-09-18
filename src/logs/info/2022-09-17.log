@@ -1,0 +1,425 @@
+2022-09-17 09:41:41 info: [0mOPTIONS /createUser [32m204[0m 0.156 ms - 0[0m
+2022-09-17 09:41:42 info: [0mPOST /createUser [32m201[0m 517.952 ms - 271[0m
+2022-09-17 09:41:47 info: 🟢 The database is connected.
+2022-09-17 09:42:15 info: [0mOPTIONS /createUser [32m204[0m 0.159 ms - 0[0m
+2022-09-17 09:42:15 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 09:42:15 info: [0mPOST /createUser [33m400[0m 16.962 ms - 63[0m
+2022-09-17 09:42:19 info: 🟢 The database is connected.
+2022-09-17 09:43:57 info: [0mOPTIONS /createUser [32m204[0m 0.197 ms - 0[0m
+2022-09-17 09:43:57 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 09:43:57 info: [0mPOST /createUser [33m400[0m 1.510 ms - 63[0m
+2022-09-17 09:49:07 info: [0mOPTIONS /createUser [32m204[0m 0.360 ms - 0[0m
+2022-09-17 09:49:08 info: [0mPOST /createUser [32m201[0m 209.100 ms - 277[0m
+2022-09-17 09:49:09 error: StatusCode : 409, Message : You're email web21fdbgfnngf@test.com already exists
+2022-09-17 09:49:09 info: [0mPOST /createUser [33m409[0m 49.233 ms - 65[0m
+2022-09-17 10:19:52 info: [0mOPTIONS /createUser [32m204[0m 0.129 ms - 0[0m
+2022-09-17 10:19:53 info: [0mPOST /createUser [32m201[0m 215.044 ms - 277[0m
+2022-09-17 10:20:31 info: [0mOPTIONS /createUser [32m204[0m 0.096 ms - 0[0m
+2022-09-17 10:20:31 info: [0mPOST /createUser [32m201[0m 198.919 ms - 280[0m
+2022-09-17 10:21:08 info: [0mOPTIONS /createUser [32m204[0m 0.102 ms - 0[0m
+2022-09-17 10:21:08 info: [0mPOST /createUser [32m201[0m 274.304 ms - 273[0m
+2022-09-17 10:22:17 info: [0mOPTIONS /createUser [32m204[0m 0.161 ms - 0[0m
+2022-09-17 10:22:17 info: [0mPOST /createUser [32m201[0m 206.032 ms - 278[0m
+2022-09-17 10:29:15 info: [0mOPTIONS /createUser [32m204[0m 0.100 ms - 0[0m
+2022-09-17 10:29:15 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 10:29:15 info: [0mPOST /createUser [33m400[0m 1.141 ms - 63[0m
+2022-09-17 10:29:34 info: [0mOPTIONS /createUser [32m204[0m 0.102 ms - 0[0m
+2022-09-17 10:29:34 error: StatusCode : 400, Message : email must be an email
+2022-09-17 10:29:34 info: [0mPOST /createUser [33m400[0m 1.085 ms - 36[0m
+2022-09-17 10:30:08 info: [0mOPTIONS /createUser [32m204[0m 0.102 ms - 0[0m
+2022-09-17 10:30:08 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 10:30:08 info: [0mPOST /createUser [33m400[0m 1.244 ms - 63[0m
+2022-09-17 10:30:25 info: [0mOPTIONS /createUser [32m204[0m 0.098 ms - 0[0m
+2022-09-17 10:30:25 error: StatusCode : 400, Message : email must be an email
+2022-09-17 10:30:25 info: [0mPOST /createUser [33m400[0m 1.520 ms - 36[0m
+2022-09-17 10:32:03 info: [0mOPTIONS /createUser [32m204[0m 0.105 ms - 0[0m
+2022-09-17 10:32:03 info: [0mPOST /createUser [32m201[0m 200.914 ms - 274[0m
+2022-09-17 10:34:35 info: [0mOPTIONS /createUser [32m204[0m 0.105 ms - 0[0m
+2022-09-17 10:34:35 info: [0mPOST /createUser [32m201[0m 200.045 ms - 274[0m
+2022-09-17 10:40:14 info: [0mOPTIONS /createUser [32m204[0m 0.140 ms - 0[0m
+2022-09-17 10:40:14 info: [0mPOST /createUser [32m201[0m 230.294 ms - 275[0m
+2022-09-17 10:48:49 info: [0mOPTIONS /createUser [32m204[0m 0.098 ms - 0[0m
+2022-09-17 10:48:49 error: StatusCode : 400, Message : email must be an email
+2022-09-17 10:48:49 info: [0mPOST /createUser [33m400[0m 12.542 ms - 36[0m
+2022-09-17 10:49:16 info: [0mOPTIONS /createUser [32m204[0m 0.113 ms - 0[0m
+2022-09-17 10:49:16 error: StatusCode : 400, Message : email must be an email
+2022-09-17 10:49:16 info: [0mPOST /createUser [33m400[0m 1.069 ms - 36[0m
+2022-09-17 10:50:06 info: [0mOPTIONS /createUser [32m204[0m 0.099 ms - 0[0m
+2022-09-17 10:50:06 info: [0mPOST /createUser [32m201[0m 203.577 ms - 272[0m
+2022-09-17 11:02:42 info: [0mOPTIONS /createUser [32m204[0m 0.182 ms - 0[0m
+2022-09-17 11:02:43 info: [0mPOST /createUser [32m201[0m 203.970 ms - 274[0m
+2022-09-17 11:02:56 info: [0mOPTIONS /createUser [32m204[0m 0.169 ms - 0[0m
+2022-09-17 11:02:56 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:02:56 info: [0mPOST /createUser [33m400[0m 1.230 ms - 63[0m
+2022-09-17 11:03:25 info: [0mOPTIONS /createUser [32m204[0m 0.966 ms - 0[0m
+2022-09-17 11:03:25 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:03:25 info: [0mPOST /createUser [33m400[0m 1.500 ms - 63[0m
+2022-09-17 11:04:15 info: [0mOPTIONS /createUser [32m204[0m 0.110 ms - 0[0m
+2022-09-17 11:04:15 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:04:15 info: [0mPOST /createUser [33m400[0m 1.069 ms - 63[0m
+2022-09-17 11:04:35 info: [0mOPTIONS /createUser [32m204[0m 0.097 ms - 0[0m
+2022-09-17 11:04:35 info: [0mPOST /createUser [32m201[0m 210.632 ms - 270[0m
+2022-09-17 11:04:37 error: StatusCode : 409, Message : You're email web213rqw@test.com already exists
+2022-09-17 11:04:37 info: [0mPOST /createUser [33m409[0m 64.721 ms - 60[0m
+2022-09-17 11:07:28 info: [0mOPTIONS /createUser [32m204[0m 0.133 ms - 0[0m
+2022-09-17 11:07:28 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:07:28 info: [0mPOST /createUser [33m400[0m 1.205 ms - 63[0m
+2022-09-17 11:07:52 info: [0mOPTIONS /createUser [32m204[0m 0.112 ms - 0[0m
+2022-09-17 11:07:52 info: [0mPOST /createUser [32m201[0m 197.800 ms - 271[0m
+2022-09-17 11:13:35 info: [0mOPTIONS /createUser [32m204[0m 0.130 ms - 0[0m
+2022-09-17 11:13:35 info: [0mPOST /createUser [32m201[0m 198.975 ms - 275[0m
+2022-09-17 11:13:37 error: StatusCode : 409, Message : You're email web219ou87ik@test.com already exists
+2022-09-17 11:13:37 info: [0mPOST /createUser [33m409[0m 47.227 ms - 63[0m
+2022-09-17 11:13:39 error: StatusCode : 409, Message : You're email web219ou87ik@test.com already exists
+2022-09-17 11:13:39 info: [0mPOST /createUser [33m409[0m 46.923 ms - 63[0m
+2022-09-17 11:21:43 info: [0mOPTIONS /createUser [32m204[0m 0.108 ms - 0[0m
+2022-09-17 11:21:43 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 11:21:43 info: [0mPOST /createUser [33m400[0m 1.094 ms - 63[0m
+2022-09-17 11:22:02 info: [0mOPTIONS /createUser [32m204[0m 0.107 ms - 0[0m
+2022-09-17 11:22:02 info: [0mPOST /createUser [32m201[0m 209.411 ms - 280[0m
+2022-09-17 11:22:04 error: StatusCode : 409, Message : You're email web21rthtybhtgvfd@test.com already exists
+2022-09-17 11:22:04 info: [0mPOST /createUser [33m409[0m 46.788 ms - 68[0m
+2022-09-17 11:22:06 error: StatusCode : 409, Message : You're email web21rthtybhtgvfd@test.com already exists
+2022-09-17 11:22:06 info: [0mPOST /createUser [33m409[0m 47.321 ms - 68[0m
+2022-09-17 12:55:12 info: [0mOPTIONS /createUser [32m204[0m 0.294 ms - 0[0m
+2022-09-17 12:55:12 info: [0mPOST /createUser [32m201[0m 514.173 ms - 276[0m
+2022-09-17 13:02:39 info: [0mOPTIONS /createUser [32m204[0m 0.165 ms - 0[0m
+2022-09-17 13:02:39 info: [0mPOST /createUser [32m201[0m 203.900 ms - 274[0m
+2022-09-17 13:04:02 info: [0mOPTIONS /createUser [32m204[0m 0.101 ms - 0[0m
+2022-09-17 13:04:02 info: [0mPOST /createUser [32m201[0m 196.590 ms - 278[0m
+2022-09-17 13:21:36 info: [0mOPTIONS /createUser [32m204[0m 0.117 ms - 0[0m
+2022-09-17 13:21:36 info: [0mPOST /createUser [32m201[0m 203.384 ms - 282[0m
+2022-09-17 13:21:44 info: [0mOPTIONS /createUser [32m204[0m 0.101 ms - 0[0m
+2022-09-17 13:21:44 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:21:44 info: [0mPOST /createUser [33m400[0m 1.152 ms - 63[0m
+2022-09-17 13:22:01 info: [0mOPTIONS /createUser [32m204[0m 0.143 ms - 0[0m
+2022-09-17 13:22:01 info: [0mPOST /createUser [32m201[0m 196.641 ms - 277[0m
+2022-09-17 13:22:56 info: [0mOPTIONS /createUser [32m204[0m 0.088 ms - 0[0m
+2022-09-17 13:22:56 info: [0mPOST /createUser [32m201[0m 207.437 ms - 274[0m
+2022-09-17 13:23:56 info: [0mOPTIONS /createUser [32m204[0m 0.163 ms - 0[0m
+2022-09-17 13:23:56 info: [0mPOST /createUser [32m201[0m 199.221 ms - 281[0m
+2022-09-17 13:25:47 info: [0mOPTIONS /createUser [32m204[0m 0.095 ms - 0[0m
+2022-09-17 13:25:47 info: [0mPOST /createUser [32m201[0m 198.102 ms - 286[0m
+2022-09-17 13:26:42 info: [0mOPTIONS /createUser [32m204[0m 0.142 ms - 0[0m
+2022-09-17 13:26:42 info: [0mPOST /createUser [32m201[0m 200.907 ms - 280[0m
+2022-09-17 13:27:17 info: [0mOPTIONS /createUser [32m204[0m 0.104 ms - 0[0m
+2022-09-17 13:27:18 info: [0mPOST /createUser [32m201[0m 199.375 ms - 283[0m
+2022-09-17 13:28:47 info: [0mOPTIONS /createUser [32m204[0m 0.104 ms - 0[0m
+2022-09-17 13:28:47 info: [0mPOST /createUser [32m201[0m 198.286 ms - 289[0m
+2022-09-17 13:39:16 info: [0mOPTIONS /createUser [32m204[0m 0.107 ms - 0[0m
+2022-09-17 13:39:16 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:39:16 info: [0mPOST /createUser [33m400[0m 1.211 ms - 63[0m
+2022-09-17 13:40:13 info: [0mOPTIONS /createUser [32m204[0m 0.102 ms - 0[0m
+2022-09-17 13:40:13 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:40:13 info: [0mPOST /createUser [33m400[0m 1.631 ms - 63[0m
+2022-09-17 13:41:45 info: [0mOPTIONS /createUser [32m204[0m 0.105 ms - 0[0m
+2022-09-17 13:41:45 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:41:45 info: [0mPOST /createUser [33m400[0m 1.087 ms - 63[0m
+2022-09-17 13:42:22 info: [0mOPTIONS /createUser [32m204[0m 0.151 ms - 0[0m
+2022-09-17 13:42:22 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:42:22 info: [0mPOST /createUser [33m400[0m 0.977 ms - 63[0m
+2022-09-17 13:43:12 info: [0mOPTIONS /createUser [32m204[0m 0.093 ms - 0[0m
+2022-09-17 13:43:12 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:43:12 info: [0mPOST /createUser [33m400[0m 1.028 ms - 63[0m
+2022-09-17 13:43:35 info: [0mOPTIONS /createUser [32m204[0m 0.108 ms - 0[0m
+2022-09-17 13:43:35 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:43:35 info: [0mPOST /createUser [33m400[0m 0.987 ms - 63[0m
+2022-09-17 13:45:00 info: [0mOPTIONS /createUser [32m204[0m 0.140 ms - 0[0m
+2022-09-17 13:45:00 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:45:00 info: [0mPOST /createUser [33m400[0m 1.117 ms - 63[0m
+2022-09-17 13:45:31 info: [0mOPTIONS /createUser [32m204[0m 0.097 ms - 0[0m
+2022-09-17 13:45:31 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:45:31 info: [0mPOST /createUser [33m400[0m 1.017 ms - 63[0m
+2022-09-17 13:46:13 info: [0mOPTIONS /createUser [32m204[0m 0.143 ms - 0[0m
+2022-09-17 13:46:13 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:46:13 info: [0mPOST /createUser [33m400[0m 1.029 ms - 63[0m
+2022-09-17 13:46:37 info: [0mOPTIONS /createUser [32m204[0m 0.208 ms - 0[0m
+2022-09-17 13:46:37 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:46:37 info: [0mPOST /createUser [33m400[0m 1.560 ms - 63[0m
+2022-09-17 13:47:27 info: [0mOPTIONS /createUser [32m204[0m 0.097 ms - 0[0m
+2022-09-17 13:47:27 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:47:27 info: [0mPOST /createUser [33m400[0m 0.997 ms - 63[0m
+2022-09-17 13:49:29 info: [0mOPTIONS /createUser [32m204[0m 0.117 ms - 0[0m
+2022-09-17 13:49:29 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:49:29 info: [0mPOST /createUser [33m400[0m 1.228 ms - 63[0m
+2022-09-17 13:50:54 info: [0mOPTIONS /createUser [32m204[0m 0.175 ms - 0[0m
+2022-09-17 13:50:54 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:50:54 info: [0mPOST /createUser [33m400[0m 1.087 ms - 63[0m
+2022-09-17 13:51:19 info: [0mOPTIONS /createUser [32m204[0m 0.095 ms - 0[0m
+2022-09-17 13:51:19 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:51:19 info: [0mPOST /createUser [33m400[0m 1.035 ms - 63[0m
+2022-09-17 13:51:47 info: [0mOPTIONS /createUser [32m204[0m 0.102 ms - 0[0m
+2022-09-17 13:51:47 info: [0mPOST /createUser [32m201[0m 207.869 ms - 285[0m
+2022-09-17 13:53:02 info: [0mOPTIONS /createUser [32m204[0m 0.114 ms - 0[0m
+2022-09-17 13:53:02 info: [0mPOST /createUser [32m201[0m 197.448 ms - 282[0m
+2022-09-17 13:54:02 info: [0mOPTIONS /createUser [32m204[0m 0.097 ms - 0[0m
+2022-09-17 13:54:03 info: [0mPOST /createUser [32m201[0m 204.240 ms - 281[0m
+2022-09-17 13:58:38 info: [0mOPTIONS /createUser [32m204[0m 0.099 ms - 0[0m
+2022-09-17 13:58:38 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:58:38 info: [0mPOST /createUser [33m400[0m 1.453 ms - 63[0m
+2022-09-17 13:59:24 info: [0mOPTIONS /createUser [32m204[0m 0.096 ms - 0[0m
+2022-09-17 13:59:24 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:59:24 info: [0mPOST /createUser [33m400[0m 1.202 ms - 63[0m
+2022-09-17 13:59:52 info: [0mOPTIONS /createUser [32m204[0m 0.106 ms - 0[0m
+2022-09-17 13:59:52 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 13:59:52 info: [0mPOST /createUser [33m400[0m 1.032 ms - 63[0m
+2022-09-17 14:04:50 info: [0mOPTIONS /createUser [32m204[0m 0.115 ms - 0[0m
+2022-09-17 14:04:50 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 14:04:50 info: [0mPOST /createUser [33m400[0m 1.116 ms - 63[0m
+2022-09-17 14:09:43 info: [0mOPTIONS /createUser [32m204[0m 0.101 ms - 0[0m
+2022-09-17 14:09:43 info: [0mPOST /createUser [32m201[0m 210.887 ms - 281[0m
+2022-09-17 14:09:46 error: StatusCode : 409, Message : You're email web21vvcvdsvverv@test.com already exists
+2022-09-17 14:09:46 info: [0mPOST /createUser [33m409[0m 48.302 ms - 67[0m
+2022-09-17 14:10:46 info: [0mOPTIONS /createUser [32m204[0m 0.091 ms - 0[0m
+2022-09-17 14:10:46 info: [0mPOST /createUser [32m201[0m 199.785 ms - 280[0m
+2022-09-17 14:11:08 info: [0mOPTIONS /createUser [32m204[0m 0.099 ms - 0[0m
+2022-09-17 14:11:09 info: [0mPOST /createUser [32m201[0m 196.883 ms - 282[0m
+2022-09-17 14:11:38 info: [0mOPTIONS /createUser [32m204[0m 0.114 ms - 0[0m
+2022-09-17 14:11:38 info: [0mPOST /createUser [32m201[0m 206.149 ms - 281[0m
+2022-09-17 14:12:10 info: [0mOPTIONS /createUser [32m204[0m 0.170 ms - 0[0m
+2022-09-17 14:12:10 info: [0mPOST /createUser [32m201[0m 200.577 ms - 278[0m
+2022-09-17 14:14:30 info: [0mOPTIONS /createUser [32m204[0m 0.092 ms - 0[0m
+2022-09-17 14:14:30 info: [0mPOST /createUser [32m201[0m 197.397 ms - 282[0m
+2022-09-17 14:15:31 info: [0mOPTIONS /createUser [32m204[0m 0.113 ms - 0[0m
+2022-09-17 14:15:32 info: [0mPOST /createUser [32m201[0m 209.337 ms - 280[0m
+2022-09-17 14:15:33 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:33 info: [0mPOST /createUser [33m409[0m 46.850 ms - 67[0m
+2022-09-17 14:15:33 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:33 info: [0mPOST /createUser [33m409[0m 47.212 ms - 67[0m
+2022-09-17 14:15:34 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:34 info: [0mPOST /createUser [33m409[0m 48.581 ms - 67[0m
+2022-09-17 14:15:34 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:34 info: [0mPOST /createUser [33m409[0m 48.043 ms - 67[0m
+2022-09-17 14:15:34 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:34 info: [0mPOST /createUser [33m409[0m 46.598 ms - 67[0m
+2022-09-17 14:15:34 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:34 info: [0mPOST /createUser [33m409[0m 45.950 ms - 67[0m
+2022-09-17 14:15:35 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:35 info: [0mPOST /createUser [33m409[0m 50.854 ms - 67[0m
+2022-09-17 14:15:35 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:35 info: [0mPOST /createUser [33m409[0m 46.999 ms - 67[0m
+2022-09-17 14:15:35 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:35 info: [0mPOST /createUser [33m409[0m 50.851 ms - 67[0m
+2022-09-17 14:15:36 error: StatusCode : 409, Message : You're email web2reberberber1@test.com already exists
+2022-09-17 14:15:36 info: [0mPOST /createUser [33m409[0m 47.491 ms - 67[0m
+2022-09-17 14:19:27 info: [0mOPTIONS /createUser [32m204[0m 0.096 ms - 0[0m
+2022-09-17 14:19:27 info: [0mPOST /createUser [32m201[0m 198.637 ms - 285[0m
+2022-09-17 14:29:02 info: [0mOPTIONS /createUser [32m204[0m 0.102 ms - 0[0m
+2022-09-17 14:29:02 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 14:29:02 info: [0mPOST /createUser [33m400[0m 1.672 ms - 63[0m
+2022-09-17 14:29:56 info: [0mOPTIONS /createUser [32m204[0m 0.099 ms - 0[0m
+2022-09-17 14:29:56 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 14:29:56 info: [0mPOST /createUser [33m400[0m 1.083 ms - 63[0m
+2022-09-17 14:30:41 info: [0mOPTIONS /createUser [32m204[0m 0.117 ms - 0[0m
+2022-09-17 14:30:41 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 14:30:41 info: [0mPOST /createUser [33m400[0m 1.251 ms - 63[0m
+2022-09-17 14:31:58 info: [0mOPTIONS /createUser [32m204[0m 0.094 ms - 0[0m
+2022-09-17 14:31:59 info: [0mPOST /createUser [32m201[0m 203.085 ms - 277[0m
+2022-09-17 14:32:17 info: [0mOPTIONS /createUser [32m204[0m 0.101 ms - 0[0m
+2022-09-17 14:32:18 info: [0mPOST /createUser [32m201[0m 197.266 ms - 278[0m
+2022-09-17 14:33:27 info: [0mOPTIONS /createUser [32m204[0m 0.122 ms - 0[0m
+2022-09-17 14:33:27 info: [0mPOST /createUser [32m201[0m 194.763 ms - 281[0m
+2022-09-17 14:37:06 info: [0mOPTIONS /createUser [32m204[0m 0.099 ms - 0[0m
+2022-09-17 14:37:06 info: [0mPOST /createUser [32m201[0m 196.966 ms - 279[0m
+2022-09-17 14:41:50 info: [0mOPTIONS /createUser [32m204[0m 0.107 ms - 0[0m
+2022-09-17 14:41:50 info: [0mPOST /createUser [32m201[0m 197.917 ms - 284[0m
+2022-09-17 14:43:05 info: [0mOPTIONS /createUser [32m204[0m 0.095 ms - 0[0m
+2022-09-17 14:43:05 info: [0mPOST /createUser [32m201[0m 196.209 ms - 279[0m
+2022-09-17 14:51:37 info: [0mOPTIONS /createUser [32m204[0m 0.140 ms - 0[0m
+2022-09-17 14:51:37 info: [0mPOST /createUser [32m201[0m 205.618 ms - 285[0m
+2022-09-17 16:46:37 info: [0mOPTIONS /createUser [32m204[0m 0.129 ms - 0[0m
+2022-09-17 16:46:37 info: [0mPOST /createUser [32m201[0m 474.010 ms - 276[0m
+2022-09-17 16:47:15 info: [0mOPTIONS /createUser [32m204[0m 0.102 ms - 0[0m
+2022-09-17 16:47:15 info: [0mPOST /createUser [32m201[0m 194.230 ms - 286[0m
+2022-09-17 16:48:17 info: [0mOPTIONS /createUser [32m204[0m 0.217 ms - 0[0m
+2022-09-17 16:48:18 info: [0mPOST /createUser [32m201[0m 193.683 ms - 285[0m
+2022-09-17 16:50:04 info: [0mOPTIONS /createUser [32m204[0m 0.110 ms - 0[0m
+2022-09-17 16:50:04 info: [0mPOST /createUser [32m201[0m 193.720 ms - 280[0m
+2022-09-17 16:55:06 info: [0mOPTIONS /createUser [32m204[0m 0.148 ms - 0[0m
+2022-09-17 16:55:07 info: [0mPOST /createUser [32m201[0m 195.269 ms - 286[0m
+2022-09-17 16:57:02 info: [0mOPTIONS /createUser [32m204[0m 0.179 ms - 0[0m
+2022-09-17 16:57:02 error: StatusCode : 400, Message : email must be an email
+2022-09-17 16:57:02 info: [0mPOST /createUser [33m400[0m 2.257 ms - 36[0m
+2022-09-17 16:57:20 info: [0mOPTIONS /createUser [32m204[0m 0.095 ms - 0[0m
+2022-09-17 16:57:20 info: [0mPOST /createUser [32m201[0m 194.441 ms - 286[0m
+2022-09-17 16:58:50 info: [0mOPTIONS /createUser [32m204[0m 0.123 ms - 0[0m
+2022-09-17 16:58:50 info: [0mPOST /createUser [32m201[0m 193.534 ms - 280[0m
+2022-09-17 17:35:33 info: [0mOPTIONS /createUser [32m204[0m 0.264 ms - 0[0m
+2022-09-17 17:35:33 info: [0mPOST /createUser [32m201[0m 295.258 ms - 275[0m
+2022-09-17 17:36:58 info: [0mOPTIONS /createUser [32m204[0m 0.153 ms - 0[0m
+2022-09-17 17:36:58 info: [0mPOST /createUser [32m201[0m 290.764 ms - 278[0m
+2022-09-17 17:56:04 info: [0mOPTIONS /createUser [32m204[0m 0.185 ms - 0[0m
+2022-09-17 17:56:04 info: [0mPOST /createUser [32m201[0m 339.125 ms - 275[0m
+2022-09-17 18:00:38 info: [0mOPTIONS /createUser [32m204[0m 0.205 ms - 0[0m
+2022-09-17 18:00:38 info: [0mPOST /createUser [32m201[0m 298.606 ms - 276[0m
+2022-09-17 18:02:59 info: [0mOPTIONS /createUser [32m204[0m 0.134 ms - 0[0m
+2022-09-17 18:03:00 info: [0mPOST /createUser [32m201[0m 301.214 ms - 275[0m
+2022-09-17 18:03:44 info: [0mOPTIONS /createUser [32m204[0m 0.172 ms - 0[0m
+2022-09-17 18:03:44 info: [0mPOST /createUser [32m201[0m 290.264 ms - 280[0m
+2022-09-17 18:04:20 info: [0mOPTIONS /createUser [32m204[0m 0.126 ms - 0[0m
+2022-09-17 18:04:21 info: [0mPOST /createUser [32m201[0m 262.957 ms - 273[0m
+2022-09-17 18:05:37 info: [0mOPTIONS /createUser [32m204[0m 0.302 ms - 0[0m
+2022-09-17 18:05:37 info: [0mPOST /createUser [32m201[0m 291.043 ms - 279[0m
+2022-09-17 18:05:42 error: StatusCode : 409, Message : You're email web21zxcxzcxzcdscds@test.com already exists
+2022-09-17 18:05:42 info: [0mPOST /createUser [33m409[0m 46.365 ms - 70[0m
+2022-09-17 18:06:10 info: [0mOPTIONS /createUser [32m204[0m 0.124 ms - 0[0m
+2022-09-17 18:06:10 info: [0mPOST /createUser [32m201[0m 287.536 ms - 283[0m
+2022-09-17 18:10:46 info: [0mOPTIONS /createUser [32m204[0m 0.142 ms - 0[0m
+2022-09-17 18:10:47 info: [0mPOST /createUser [32m201[0m 287.013 ms - 279[0m
+2022-09-17 18:11:10 info: [0mOPTIONS /createUser [32m204[0m 0.172 ms - 0[0m
+2022-09-17 18:11:11 info: [0mPOST /createUser [32m201[0m 271.589 ms - 249[0m
+2022-09-17 18:11:35 info: [0mOPTIONS /createUser [32m204[0m 0.251 ms - 0[0m
+2022-09-17 18:11:35 info: [0mPOST /createUser [32m201[0m 294.058 ms - 275[0m
+2022-09-17 18:12:26 info: [0mOPTIONS /createUser [32m204[0m 0.124 ms - 0[0m
+2022-09-17 18:12:26 info: [0mPOST /createUser [32m201[0m 286.930 ms - 275[0m
+2022-09-17 18:59:58 info: [0mOPTIONS /createUser [32m204[0m 0.149 ms - 0[0m
+2022-09-17 18:59:58 info: [0mPOST /createUser [32m201[0m 224.474 ms - 279[0m
+2022-09-17 19:00:58 info: [0mOPTIONS /createUser [32m204[0m 0.150 ms - 0[0m
+2022-09-17 19:00:58 info: [0mPOST /createUser [32m201[0m 193.014 ms - 281[0m
+2022-09-17 19:01:25 info: [0mOPTIONS /createUser [32m204[0m 0.105 ms - 0[0m
+2022-09-17 19:01:25 info: [0mPOST /createUser [32m201[0m 193.282 ms - 280[0m
+2022-09-17 19:01:27 error: StatusCode : 409, Message : You're email web21rw3rewr2r21r12r@test.com already exists
+2022-09-17 19:01:27 info: [0mPOST /createUser [33m409[0m 44.897 ms - 71[0m
+2022-09-17 19:02:24 info: [0mOPTIONS /createUser [32m204[0m 0.131 ms - 0[0m
+2022-09-17 19:02:24 info: [0mPOST /createUser [32m201[0m 197.879 ms - 275[0m
+2022-09-17 19:03:31 info: [0mOPTIONS /createUser [32m204[0m 0.134 ms - 0[0m
+2022-09-17 19:03:31 info: [0mPOST /createUser [32m201[0m 252.467 ms - 274[0m
+2022-09-17 19:05:24 info: [0mOPTIONS /createUser [32m204[0m 0.098 ms - 0[0m
+2022-09-17 19:05:24 info: [0mPOST /createUser [32m201[0m 208.869 ms - 273[0m
+2022-09-17 19:06:30 info: [0mOPTIONS /createUser [32m204[0m 0.163 ms - 0[0m
+2022-09-17 19:06:31 info: [0mPOST /createUser [32m201[0m 192.238 ms - 272[0m
+2022-09-17 19:07:46 info: [0mOPTIONS /createUser [32m204[0m 0.111 ms - 0[0m
+2022-09-17 19:07:46 info: [0mPOST /createUser [32m201[0m 192.260 ms - 273[0m
+2022-09-17 19:08:44 info: [0mOPTIONS /createUser [32m204[0m 0.097 ms - 0[0m
+2022-09-17 19:08:44 info: [0mPOST /createUser [32m201[0m 197.966 ms - 274[0m
+2022-09-17 19:09:52 info: [0mOPTIONS /createUser [32m204[0m 0.155 ms - 0[0m
+2022-09-17 19:09:52 info: [0mPOST /createUser [32m201[0m 204.753 ms - 272[0m
+2022-09-17 19:12:50 info: [0mOPTIONS /createUser [32m204[0m 0.100 ms - 0[0m
+2022-09-17 19:12:50 info: [0mPOST /createUser [32m201[0m 192.935 ms - 278[0m
+2022-09-17 19:15:20 info: [0mOPTIONS /createUser [32m204[0m 0.161 ms - 0[0m
+2022-09-17 19:15:20 info: [0mPOST /createUser [32m201[0m 195.470 ms - 282[0m
+2022-09-17 19:25:15 info: [0mOPTIONS /createUser [32m204[0m 0.225 ms - 0[0m
+2022-09-17 19:25:16 info: [0mPOST /createUser [32m201[0m 218.270 ms - 278[0m
+2022-09-17 19:27:53 info: [0mOPTIONS /createUser [32m204[0m 0.095 ms - 0[0m
+2022-09-17 19:27:53 info: [0mPOST /createUser [32m201[0m 194.375 ms - 280[0m
+2022-09-17 19:30:01 info: [0mOPTIONS /createUser [32m204[0m 0.097 ms - 0[0m
+2022-09-17 19:30:01 info: [0mPOST /createUser [32m201[0m 193.784 ms - 282[0m
+2022-09-17 19:31:01 info: [0mOPTIONS /createUser [32m204[0m 0.098 ms - 0[0m
+2022-09-17 19:31:01 info: [0mPOST /createUser [32m201[0m 198.911 ms - 275[0m
+2022-09-17 19:32:50 info: [0mOPTIONS /createUser [32m204[0m 0.112 ms - 0[0m
+2022-09-17 19:32:50 info: [0mPOST /createUser [32m201[0m 221.528 ms - 291[0m
+2022-09-17 19:34:56 info: [0mOPTIONS /createUser [32m204[0m 0.107 ms - 0[0m
+2022-09-17 19:34:56 info: [0mPOST /createUser [32m201[0m 194.796 ms - 286[0m
+2022-09-17 19:42:46 info: [0mOPTIONS /createUser [32m204[0m 0.117 ms - 0[0m
+2022-09-17 19:42:47 info: [0mPOST /createUser [32m201[0m 191.798 ms - 279[0m
+2022-09-17 19:43:56 info: [0mOPTIONS /createUser [32m204[0m 0.167 ms - 0[0m
+2022-09-17 19:43:56 info: [0mPOST /createUser [32m201[0m 195.606 ms - 279[0m
+2022-09-17 19:44:43 info: [0mOPTIONS /createUser [32m204[0m 0.124 ms - 0[0m
+2022-09-17 19:44:43 info: [0mPOST /createUser [32m201[0m 192.655 ms - 276[0m
+2022-09-17 19:45:27 info: [0mOPTIONS /createUser [32m204[0m 0.111 ms - 0[0m
+2022-09-17 19:45:27 info: [0mPOST /createUser [32m201[0m 194.760 ms - 280[0m
+2022-09-17 19:46:20 info: [0mOPTIONS /createUser [32m204[0m 0.112 ms - 0[0m
+2022-09-17 19:46:20 info: [0mPOST /createUser [32m201[0m 196.889 ms - 279[0m
+2022-09-17 19:46:22 info: [0mGET /getDefaultData [32m201[0m 47.933 ms - 912[0m
+2022-09-17 21:03:45 info: 🟢 The database is connected.
+2022-09-17 21:05:07 info: 🟢 The database is connected.
+2022-09-17 21:05:35 info: 🟢 The database is connected.
+2022-09-17 21:07:37 info: 🟢 The database is connected.
+2022-09-17 21:20:29 info: 🟢 The database is connected.
+2022-09-17 21:21:16 info: [0mOPTIONS /createUser [32m204[0m 0.187 ms - 0[0m
+2022-09-17 21:21:16 info: [0mPOST /createUser [32m201[0m 202.539 ms - 265[0m
+2022-09-17 21:22:40 info: [0mOPTIONS /createUser [32m204[0m 0.115 ms - 0[0m
+2022-09-17 21:22:40 info: [0mPOST /createUser [32m201[0m 201.417 ms - 265[0m
+2022-09-17 21:25:08 info: [0mOPTIONS /createUser [32m204[0m 0.094 ms - 0[0m
+2022-09-17 21:25:08 info: [0mPOST /createUser [32m201[0m 191.860 ms - 266[0m
+2022-09-17 21:25:08 info: [0mOPTIONS /getUserById [32m204[0m 0.099 ms - 0[0m
+2022-09-17 21:25:08 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:25:08 info: [0mGET /getUserById [33m409[0m 57.587 ms - 29[0m
+2022-09-17 21:26:04 info: 🟢 The database is connected.
+2022-09-17 21:30:52 info: 🟢 The database is connected.
+2022-09-17 21:31:15 info: [0mOPTIONS /createUser [32m204[0m 0.151 ms - 0[0m
+2022-09-17 21:31:15 info: [0mPOST /createUser [32m201[0m 218.018 ms - 264[0m
+2022-09-17 21:31:15 info: [0mOPTIONS /getUserById?id=632612736d95be9db54dd279 [32m204[0m 0.107 ms - 0[0m
+2022-09-17 21:31:15 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:31:15 info: [0mGET /getUserById?id=632612736d95be9db54dd279 [33m409[0m 46.191 ms - 29[0m
+2022-09-17 21:31:46 info: 🟢 The database is connected.
+2022-09-17 21:32:00 info: [0mOPTIONS /createUser [32m204[0m 0.112 ms - 0[0m
+2022-09-17 21:32:00 info: [0mPOST /createUser [32m201[0m 198.448 ms - 264[0m
+2022-09-17 21:32:00 info: [0mOPTIONS /getUserById?id=632612a06d95be9db54dd27b [32m204[0m 0.110 ms - 0[0m
+2022-09-17 21:32:00 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:32:00 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 49.234 ms - 29[0m
+2022-09-17 21:35:55 info: [0mOPTIONS /createUser [32m204[0m 0.156 ms - 0[0m
+2022-09-17 21:35:55 error: StatusCode : 400, Message : email must be an email, password must be a string
+2022-09-17 21:35:55 info: [0mPOST /createUser [33m400[0m 1.594 ms - 63[0m
+2022-09-17 21:36:10 info: [0mOPTIONS /createUser [32m204[0m 0.102 ms - 0[0m
+2022-09-17 21:36:10 info: [0mPOST /createUser [32m201[0m 192.777 ms - 266[0m
+2022-09-17 21:36:10 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:36:10 info: [0mGET /getUserById?id=6326139a6d95be9db54dd27d [33m409[0m 52.154 ms - 29[0m
+2022-09-17 21:37:40 info: [0mOPTIONS /createUser [32m204[0m 0.213 ms - 0[0m
+2022-09-17 21:37:40 info: [0mPOST /createUser [32m201[0m 197.936 ms - 266[0m
+2022-09-17 21:37:40 info: [0mGET /getUserById/:id=632613f46d95be9db54dd27f [33m404[0m 1.605 ms - 179[0m
+2022-09-17 21:38:53 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:38:53 info: [0mGET /getUserById [33m409[0m 44.128 ms - 29[0m
+2022-09-17 21:39:08 info: [0mGET /getUserById/:id='123' [33m404[0m 0.897 ms - 168[0m
+2022-09-17 21:39:34 info: [0mGET /getUserById/:id='632612a06d95be9db54dd27b' [33m404[0m 0.697 ms - 189[0m
+2022-09-17 21:39:56 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:39:56 info: [0mGET /getUserById?id=%27632612a06d95be9db54dd27b%27 [33m409[0m 47.314 ms - 29[0m
+2022-09-17 21:40:04 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:40:04 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 45.183 ms - 29[0m
+2022-09-17 21:40:17 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:40:17 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [33m409[0m 44.178 ms - 29[0m
+2022-09-17 21:40:50 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:40:50 info: [0mGET /getUserById?id=72603 [33m409[0m 45.845 ms - 29[0m
+2022-09-17 21:43:53 info: 🟢 The database is connected.
+2022-09-17 21:44:16 info: 🟢 The database is connected.
+2022-09-17 21:44:45 info: [0mOPTIONS /createUser [32m204[0m 0.098 ms - 0[0m
+2022-09-17 21:44:46 info: [0mPOST /createUser [32m201[0m 203.885 ms - 271[0m
+2022-09-17 21:44:46 info: [0mGET /getUserById/:id=6326159e6d95be9db54dd281 [33m404[0m 0.574 ms - 179[0m
+2022-09-17 21:45:21 info: [0mOPTIONS /createUser [32m204[0m 0.667 ms - 0[0m
+2022-09-17 21:45:21 info: [0mPOST /createUser [32m201[0m 201.041 ms - 267[0m
+2022-09-17 21:45:21 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:45:21 info: [0mGET /getUserById?id=632615c16d95be9db54dd283 [33m409[0m 54.322 ms - 29[0m
+2022-09-17 21:47:07 info: 🟢 The database is connected.
+2022-09-17 21:47:24 info: 🟢 The database is connected.
+2022-09-17 21:47:38 info: 🟢 The database is connected.
+2022-09-17 21:47:51 info: [0mOPTIONS /createUser [32m204[0m 0.106 ms - 0[0m
+2022-09-17 21:47:51 info: [0mPOST /createUser [32m201[0m 288.204 ms - 267[0m
+2022-09-17 21:47:51 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:47:51 info: [0mGET /getUserById?id=632616576d95be9db54dd285 [33m409[0m 46.527 ms - 29[0m
+2022-09-17 21:49:09 info: 🟢 The database is connected.
+2022-09-17 21:49:23 info: [0mOPTIONS /createUser [32m204[0m 0.145 ms - 0[0m
+2022-09-17 21:49:23 info: [0mPOST /createUser [32m201[0m 191.201 ms - 271[0m
+2022-09-17 21:49:23 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:49:23 info: [0mGET /getUserById?id=632616b36d95be9db54dd287 [33m409[0m 46.744 ms - 29[0m
+2022-09-17 21:51:54 info: 🚀 App listening on the port 3000
+2022-09-17 21:51:54 info: 🟢 The database is connected.
+2022-09-17 21:52:09 info: 🚀 App listening on the port 3000
+2022-09-17 21:52:10 info: 🟢 The database is connected.
+2022-09-17 21:52:52 info: [0mOPTIONS /createUser [32m204[0m 1.839 ms - 0[0m
+2022-09-17 21:52:52 info: [0mPOST /createUser [32m201[0m 278.554 ms - 270[0m
+2022-09-17 21:52:52 error: StatusCode : 500, Message : typeorm_1.ObjectID is not a constructor
+2022-09-17 21:52:52 info: [0mGET /getUserById?id=63261784bc445002125fc25e [31m500[0m 154.333 ms - 53[0m
+2022-09-17 21:53:13 error: StatusCode : 500, Message : typeorm_1.ObjectID is not a constructor
+2022-09-17 21:53:13 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [31m500[0m 108.351 ms - 53[0m
+2022-09-17 21:55:56 info: 🚀 App listening on the port 3000
+2022-09-17 21:55:57 info: 🟢 The database is connected.
+2022-09-17 21:56:04 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-17 21:56:04 info: [0mGET /getUserById?id=632612a06d95be9db54dd27b [31m500[0m 118.303 ms - 108[0m
+2022-09-17 21:56:21 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-17 21:56:21 info: [0mGET /getUserById?id=123 [31m500[0m 118.650 ms - 108[0m
+2022-09-17 21:56:38 error: StatusCode : 500, Message : Argument passed in must be a string of 12 bytes or a string of 24 hex characters or an integer
+2022-09-17 21:56:38 info: [0mGET /getUserById?id=%27632612a06d95be9db54dd27b%27 [31m500[0m 114.079 ms - 108[0m
+2022-09-17 21:57:25 info: 🚀 App listening on the port 3000
+2022-09-17 21:57:26 info: 🟢 The database is connected.
+2022-09-17 21:57:32 error: StatusCode : 500, Message : userIdChanged is not defined
+2022-09-17 21:57:32 info: [0mGET /getUserById?id=%27632612a06d95be9db54dd27b%27 [31m500[0m 126.790 ms - 42[0m
+2022-09-17 21:57:53 info: 🚀 App listening on the port 3000
+2022-09-17 21:57:53 info: 🟢 The database is connected.
+2022-09-17 21:57:55 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:57:55 info: [0mGET /getUserById?id=%27632612a06d95be9db54dd27b%27 [33m409[0m 193.083 ms - 29[0m
+2022-09-17 21:57:58 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:57:58 info: [0mGET /getUserById?id=%27632612a06d95be9db54dd27b%27 [33m409[0m 179.791 ms - 29[0m
+2022-09-17 21:58:12 info: 🚀 App listening on the port 3000
+2022-09-17 21:58:13 info: 🟢 The database is connected.
+2022-09-17 21:58:16 error: StatusCode : 409, Message : You're not user
+2022-09-17 21:58:16 info: [0mGET /getUserById?id=%27632612a06d95be9db54dd27b%27 [33m409[0m 163.404 ms - 29[0m
